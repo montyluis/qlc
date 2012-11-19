@@ -1,0 +1,15 @@
+README bin/
+-----------
+
+* The bin/ directory contains scripts that use the qlc libary.
+
+There is a symbolic data/ directory that points to the qlc data directory: ../src/qlc/data
+It can be used when a script requires an argument "data_path", e.g. counterparts_huber1992.py data_path.
+
+* The bin/example_scripts/ directory contains sample scripts of how to use the qlc library.
+
+* The bin/translation_graph/ directory contains scripts that work with translation graphs.
+
+* The bin/ipynb/ directory contains iPython notebooks.
+
+Enjoy!

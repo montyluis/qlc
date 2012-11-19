@@ -1,0 +1,50 @@
+#ASJP orthography profile
+i,
+e,
+E,
+3,
+a,
+u,
+o,
+p,
+b,
+m,
+f,
+v,
+8,
+4,
+t,
+d,
+s,
+z,
+c,
+n,
+S,
+Z,
+C,
+j,
+T,
+5,
+k,
+g,
+x,
+N,
+q,
+G,
+X,
+7,
+h,
+l,
+L,
+w,
+y,
+r,
+!,
+#rules
+V = {i, e, E, 3, a, u, o}
+C = {p, b, m, f, v, 8, 4, t, d, s, z, c, n, S, Z, C, j, T, 5, k, g, x, N, q, G, X, 7, h, l, L, w, y, r, !}
+V* > V* #* marks nasalization
+C" > C" #" marks glottalization
+CC~ > CC~ # ~ marks digrams
+CCC$ > CCC$ # $ marks trigrams
+

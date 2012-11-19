@@ -1,0 +1,1740 @@
+id	entry_id	annotationtype_id	start	end	value	string
+4237	584	1	0	6	bold	árone
+4238	584	1	7	17	italic	conj.pron.
+4239	584	2	40	40	newline	""
+4240	584	2	41	41	tab	""
+4241	584	2	79	79	hyphen	""
+4242	584	2	79	79	newline	""
+4243	584	2	79	79	tab	""
+4244	584	1	88	117	italic	Tsanéha dihñe nanímyé tah
+4245	584	2	117	117	hyphen	""
+4246	584	2	117	117	newline	""
+4247	584	2	117	117	tab	""
+4248	584	1	117	159	italic	jyá pañétu; árone uke ó óómíchoó.
+4249	584	2	159	159	newline	""
+4250	584	2	160	160	tab	""
+4251	584	2	194	194	newline	""
+4252	584	2	195	195	pagebreak	""
+4253	584	2	195	195	tab	""
+1702924	584	3	0	6	head	árone
+1702925	584	3	17	86	translation	sin embargo ése (cosa o acción mencionada en la oración anterior)
+1702926	584	3	88	159	example-src	Tsanéha dihñe nanímyé tahjyá pañétu; árone uke ó óómíchoó.
+1702927	584	3	159	224	example-tgt	 Robaron algunas de tus cosas en mi casa, pero te las devolveré.
+1702928	584	3	7	17	pos	conj.pron.
+1722026	2311	3	0	8	head	chííí
+1722027	2311	3	9	14	head	chíj
+1722028	2311	3	15	22	pos	interj.
+1722029	2311	3	22	27	translation	oh
+1722030	2311	4	0	8	headorth	# ch ííí #
+1722031	2311	4	9	14	headorthographic	# ch í j #
+1722032	2311	1	0	14	bold	chííí/chíj
+1722033	2311	1	15	22	italic	interj.
+1722042	2333	3	0	9	head	chíhwaá
+1722043	2333	3	11	18	head	chíhwa
+1722044	2333	3	21	34	head	chíhwámutsi
+1722045	2333	3	36	45	head	chíhwamu
+1722046	2333	3	46	48	pos	s.
+1722047	2333	3	49	85	translation	chicua (especie de pajarito agorero)
+1722048	2333	4	0	9	headorthographic	# ch í h . w a . á #
+1722049	2333	4	11	18	headorthographic	# ch í h . w a #
+1722050	2333	4	21	34	headorthographic	# ch í h . w á . m u . ts i #
+1722051	2333	4	36	45	headorthographic	# ch í h . w a . m u #
+1722052	2333	1	0	41	bold	chíhwaá/[chíhwa], chíhwámutsi, chíh
+1722053	2333	1	41	45	bold	wamu
+1722054	2333	1	46	48	italic	s.
+1722055	2333	1	101	116	italic	che-che-che-che
+1722056	2333	1	151	159	italic	chíhwaa
+1722057	2333	1	159	167	italic	chíhwaa
+1722058	2333	2	41	41	hyphen	""
+1722059	2333	2	41	41	newline	""
+1722060	2333	2	41	41	tab	""
+1722061	2333	2	76	76	newline	""
+1722062	2333	2	77	77	tab	""
+1722063	2333	2	116	116	newline	""
+1722064	2333	2	117	117	tab	""
+1722065	2333	2	159	159	hyphen	""
+1722066	2333	2	159	159	newline	""
+1722067	2333	2	159	159	tab	""
+1722083	2411	3	0	7	head	dááá
+1722084	2411	3	8	13	pos	onom.
+1722085	2411	3	13	34	translation	talán de la campana
+1722086	2411	3	36	97	example-src	Májtsíjyari cajpááná ihjyúvá dááádááá-dááá.
+1722087	2411	3	97	173	example-tgt	 La campana suena talán, talán en la iglesia. (sinón. dyééé, dyúúú)
+1722088	2411	4	0	7	headorth	# d ááá #
+1722089	2411	1	0	7	bold	dááá
+1722090	2411	1	8	13	italic	onom.
+1722091	2411	1	36	40	italic	Máj
+1722092	2411	1	40	80	italic	tsíjyari cajpááná ihjyúvá ‘dááá
+1722093	2411	1	80	97	italic	dááá-dááá’.
+1722094	2411	1	154	172	bold	dyééé, dyúúú
+1722095	2411	2	40	40	hyphen	""
+1722096	2411	2	40	40	newline	""
+1722097	2411	2	40	40	tab	""
+1722098	2411	2	80	80	hyphen	""
+1722099	2411	2	80	80	newline	""
+1722100	2411	2	80	80	tab	""
+1722101	2411	2	117	117	hyphen	""
+1722102	2411	2	117	117	newline	""
+1722103	2411	2	117	117	tab	""
+1722104	2411	2	153	153	newline	""
+1722105	2411	2	154	154	tab	""
+1722115	2513	3	0	15	head	déju éhnéjcu
+1722116	2513	3	17	23	translation	detrás
+1722117	2513	1	0	15	bold	déju éhnéjcu
+1722118	2513	2	0	0	tab	""
+1722119	2513	2	0	0	tab	""
+1722120	2480	3	1	11	head	dáárɨ̱te
+1722121	2480	3	13	16	pos	vi.
+1722122	2480	3	19	27	translation	secarse
+1722123	2480	3	29	83	example-src	Tsúúca ó dáárɨté nííjyabáne oke múriúcúne.
+1722124	2480	3	83	128	example-tgt	 Ya se secó (mi ropa) mojada por la lluvia. 
+1722125	2480	3	132	152	translation	secarse (la garganta)
+1722126	2480	3	156	200	example-src	Ɨ́hnáhó o áiúcunúneri tájkye dáárɨté.
+1722127	2480	3	200	248	example-tgt	La garganta se me secó por la fiebre que tuve.
+1722128	2480	4	1	11	headorth	d áá r ɨ̱ t e
+1722129	2480	1	0	12	bold	[dáárɨ̱te]
+1722130	2480	1	13	16	italic	vi.
+1722131	2480	1	29	40	italic	Tsúúca ó
+1722132	2480	1	41	83	italic	dáárɨté nííjyabáne oke múriúcúne.
+1722133	2480	1	156	171	italic	hnáhó o áiú
+1722134	2480	1	171	200	italic	cunúneri tájkye dáárɨté.
+1722135	2480	2	0	0	tab	""
+1722136	2480	2	0	0	tab	""
+1722137	2480	2	40	40	newline	""
+1722138	2480	2	41	41	tab	""
+1722139	2480	2	86	86	newline	""
+1722140	2480	2	87	87	tab	""
+1722141	2480	2	127	127	newline	""
+1722142	2480	2	128	128	tab	""
+1722143	2480	2	171	171	hyphen	""
+1722144	2480	2	171	171	newline	""
+1722145	2480	2	171	171	tab	""
+1722146	2480	2	212	212	newline	""
+1722147	2480	2	213	213	tab	""
+1722148	2525	3	0	35	head	déné-déné-déné-juí-juí-juí
+1722149	2525	3	36	41	pos	onom.
+1722150	2525	3	42	103	translation	imita el canto del trompetero déénehe cuando está contento
+1722151	2525	4	0	35	headorthographic	# d é . n é # d é . n é # d é . n é # j u . í # j u . í # j u . í #
+1722152	2525	1	0	35	bold	déné-déné-déné-juí-juí-juí
+1722153	2525	1	36	41	italic	onom.
+1722154	2525	1	72	81	italic	déénehe
+1722155	2525	2	47	47	newline	""
+1722156	2525	2	48	48	tab	""
+1722157	2525	2	86	86	hyphen	""
+1722158	2525	2	86	86	newline	""
+1722159	2525	2	86	86	tab	""
+1722186	2816	3	0	9	head	dohjí̵ba
+1722187	2816	3	10	12	pos	s.
+1722188	2816	3	15	35	translation	pretina para cargar
+1722189	2816	3	37	67	translation	aparina para cargar a un bebé
+1722190	2816	3	76	84	translation	carguero
+1722191	2816	3	88	120	translation	raya blanca que tiene el sajino
+1722192	2816	3	126	139	translation	clan
+1722193	2816	3	132	173	example-src	Naaníyó dohjí̵ba-múnáajpi muurá oó.
+1722194	2816	3	173	207	example-tgt	Yo pertenezco al clan de mi tío.
+1722195	2816	4	0	9	headorth	d o h j í̵ b a
+1722196	2816	1	0	9	bold	dohjí̵ba
+1722197	2816	1	10	12	italic	s.
+1722198	2816	1	132	173	italic	Naaníyó dohjí̵ba-múnáajpi muurá oó.
+1722199	2816	2	23	23	newline	""
+1722200	2816	2	24	24	tab	""
+1722201	2816	2	42	42	hyphen	""
+1722202	2816	2	42	42	newline	""
+1722203	2816	2	42	42	tab	""
+1722204	2816	2	61	61	newline	""
+1722205	2816	2	62	62	tab	""
+1722206	2816	2	79	79	hyphen	""
+1722207	2816	2	79	79	newline	""
+1722208	2816	2	79	79	tab	""
+1722209	2816	2	93	93	newline	""
+1722210	2816	2	94	94	tab	""
+1722211	2816	2	113	113	newline	""
+1722212	2816	2	114	114	tab	""
+1722213	2816	2	130	130	newline	""
+1722214	2816	2	131	131	tab	""
+1722215	2816	2	148	148	hyphen	""
+1722216	2816	2	148	148	newline	""
+1722217	2816	2	148	148	tab	""
+1722218	2816	2	165	165	hyphen	""
+1722219	2816	2	165	165	newline	""
+1722220	2816	2	165	165	tab	""
+1722221	2816	2	182	182	hyphen	""
+1722222	2816	2	182	182	newline	""
+1722223	2816	2	182	182	tab	""
+1722224	2816	2	198	198	newline	""
+1722225	2816	2	199	199	tab	""
+1722226	3091	3	0	8	head	dyúúú
+1722227	3091	3	10	15	pos	onom.
+1722228	3091	3	15	22	translation	talán
+1722229	3091	3	24	89	example-src	Uwáábójatu ó lleebó cajpááná ihjyúváne dyuu-dyuudyuu.
+1722230	3091	3	89	167	example-tgt	 Escuché la campana de la escuela sonando talán. (sinón. dááá, dyééé)
+1722231	3091	4	0	8	headorth	# dy úúú #
+1722232	3091	1	0	9	bold	dyúúú.
+1722233	3091	1	10	15	italic	onom.
+1722234	3091	1	24	45	italic	Uwáábójatu ó llee
+1722235	3091	1	45	83	italic	bó cajpááná ihjyúváne ‘dyuu-dyuu
+1722236	3091	1	83	89	italic	dyuu’.
+1722237	3091	1	149	157	bold	dááá,
+1722238	3091	1	158	166	bold	dyééé
+1722239	3091	2	45	45	hyphen	""
+1722240	3091	2	45	45	newline	""
+1722241	3091	2	45	45	tab	""
+1722242	3091	2	83	83	hyphen	""
+1722243	3091	2	83	83	newline	""
+1722244	3091	2	83	83	tab	""
+1722245	3091	2	118	118	hyphen	""
+1722246	3091	2	118	118	newline	""
+1722247	3091	2	118	118	tab	""
+1722248	3091	2	157	157	newline	""
+1722249	3091	2	158	158	tab	""
+1722258	3153	3	0	5	head	dsaaa
+1722259	3153	3	6	11	pos	onom.
+1722260	3153	3	11	79	translation	chirrido que produce algo al freirse o cuando se echa agua al fuego
+1722261	3153	3	81	134	example-src	Majchó meenúúbé wáárɨhcóné ihjyúvá dsaaa.
+1722262	3153	3	134	171	example-tgt	 Lo que el cocinero fríe hace ruido.
+1722263	3153	4	0	5	headorth	# ds aaa #
+1722264	3153	1	0	5	bold	dsaaa
+1722265	3153	1	6	11	italic	onom.
+1722266	3153	1	81	115	italic	Majchó meenúúbé wáárɨhcóné
+1722267	3153	1	116	134	italic	ihjyúvá ‘dsaaa’.
+1722268	3153	2	37	37	newline	""
+1722269	3153	2	38	38	tab	""
+1722270	3153	2	73	73	newline	""
+1722271	3153	2	74	74	pagebreak	""
+1722272	3153	2	74	74	tab	""
+1722273	3153	2	115	115	newline	""
+1722274	3153	2	116	116	tab	""
+1722275	3153	2	153	153	newline	""
+1722276	3153	2	154	154	tab	""
+1722285	3232	3	1	4	head	ee-
+1722286	3232	3	5	7	head	e-
+1722287	3232	3	9	13	pos	r.l.
+1722288	3232	3	14	36	translation	ése (no muy distante)
+1722289	3232	4	1	4	headorthographic	# ee #
+1722290	3232	4	5	7	headorthographic	# e #
+1722291	3232	1	0	8	bold	[ee-/e-]
+1722292	3232	1	9	13	italic	r.l.
+1722293	3232	1	133	137	italic	ése
+1722294	3232	2	41	41	newline	""
+1722295	3232	2	42	42	tab	""
+1722296	3232	2	88	88	newline	""
+1722297	3232	2	89	89	tab	""
+1722298	3232	2	132	132	newline	""
+1722299	3232	2	133	133	tab	""
+1722300	3241	3	1	4	head	eh-
+1722301	3241	3	6	10	pos	r.l.
+1722302	3241	3	10	17	translation	aquél
+1722303	3241	3	19	27	translation	aquélla
+1722304	3241	3	29	36	translation	aquello
+1722305	3241	4	1	4	headorthographic	# e h #
+1722306	3241	1	0	5	bold	[eh-]
+1722307	3241	1	6	10	italic	r.l.
+1722308	3241	1	133	139	italic	aquél
+1722309	3241	2	41	41	newline	""
+1722310	3241	2	42	42	tab	""
+1722311	3241	2	88	88	newline	""
+1722312	3241	2	89	89	tab	""
+1722313	3241	2	132	132	newline	""
+1722314	3241	2	133	133	tab	""
+1722315	3409	3	0	9	head	goróójɨ
+1722316	3409	3	11	20	head	goróómu
+1722317	3409	3	21	26	pos	s.an.
+1722318	3409	3	26	31	translation	seta
+1722319	3409	3	33	38	translation	hongo
+1722320	3409	4	0	9	headorthographic	# g o . r óó . j ɨ #
+1722321	3409	4	11	20	headorthographic	# g o . r óó . m u #
+1722322	3409	1	0	20	bold	goróójɨ, goróómu
+1722323	3409	1	21	26	italic	s.an.
+1722324	3409	1	40	49	italic	Especies:
+1722325	3409	1	96	106	italic	comestible
+1722326	3409	1	120	122	italic	no
+1722327	3409	1	123	133	italic	comestible
+1722328	3409	2	39	39	newline	""
+1722329	3409	2	40	40	tab	""
+1722330	3409	2	79	79	newline	""
+1722331	3409	2	80	80	tab	""
+1722332	3409	2	122	122	newline	""
+1722333	3409	2	123	123	tab	""
+1722340	3850	3	0	35	head	íñejcúéhójtsɨtu míítyétsií
+1722341	3850	3	37	69	translation	siete (hombres o animales machos)
+1722342	3850	1	0	35	bold	íñejcúéhójtsɨtu míítyétsií
+1722343	3850	2	0	0	tab	""
+1722344	3850	2	0	0	tab	""
+1722345	3850	2	41	41	newline	""
+1722346	3850	2	42	42	tab	""
+1722347	4234	3	0	9	head	í̵veekí
+1722348	4234	3	11	17	head	í̵vej
+1722349	4234	3	19	30	pos	adv.interr.
+1722350	4234	3	30	39	translation	por qué
+1722351	4234	3	41	72	example-src	¿Ɨ́veekí u péé cóómívuú?
+1722352	4234	3	73	100	example-tgt	¿Por qué te vas al pueblo?
+1722353	4234	4	0	9	headorthographic	# í̵ . v ee . k í #
+1722354	4234	4	11	17	headorthographic	# í̵ . v e j #
+1722355	4234	1	0	18	bold	í̵veekí/[í̵vej]
+1722356	4234	1	19	30	italic	adv.interr.
+1722357	4234	1	41	50	italic	¿Ɨ́veekí
+1722358	4234	1	51	72	italic	u péé cóómívuú?
+1722359	4234	1	112	118	italic	í̵vej
+1722360	4234	2	50	50	newline	""
+1722361	4234	2	51	51	tab	""
+1722362	4234	2	92	92	newline	""
+1722363	4234	2	93	93	tab	""
+1722385	4289	3	0	4	head	juuu
+1722386	4289	3	5	12	pos	interj.
+1722387	4289	3	12	127	translation	expresa que se entiende lo que alguien cuenta. —a veces se usa en forma irónica para expresar incredulidad y duda
+1722388	4289	4	0	4	headorth	# j uuu #
+1722389	4289	1	0	4	bold	juuu
+1722390	4289	1	5	12	italic	interj.
+1722391	4289	2	39	39	newline	""
+1722392	4289	2	40	40	tab	""
+1722393	4289	2	78	78	newline	""
+1722394	4289	2	79	79	tab	""
+1722395	4289	2	122	122	newline	""
+1722396	4289	2	123	123	tab	""
+1722397	4283	3	0	4	head	jooo
+1722398	4283	3	5	10	pos	onom.
+1722399	4283	3	10	83	translation	sonido que produce algo arrastrado por el suelo o empujado por el viento
+1722400	4283	4	0	4	headorth	# j ooo #
+1722401	4283	1	0	4	bold	jooo
+1722402	4283	1	5	10	italic	onom.
+1722403	4283	2	34	34	newline	""
+1722404	4283	2	35	35	tab	""
+1722405	4283	2	69	69	newline	""
+1722406	4283	2	70	70	tab	""
+1722407	4851	3	0	4	head	meé
+1722408	4851	3	6	8	head	me
+1722409	4851	3	9	12	head	me-
+1722410	4851	3	14	24	pos	pron.pers.
+1722411	4851	3	24	33	translation	nosotros
+1722412	4851	3	35	46	translation	nos (incl.)
+1722413	4851	3	253	261	example-src	Mépeé.
+1722414	4851	3	261	269	example-tgt	 Vamos. 
+1722415	4851	3	269	288	example-src	Muha mépéjucóó.
+1722416	4851	3	288	303	example-tgt	 Ya nos vamos. 
+1722417	4851	3	303	312	example-src	¡Mépeé!
+1722418	4851	3	312	320	example-tgt	 ¡Vayan!
+1722419	4851	4	0	4	headorthographic	# m e . é #
+1722420	4851	4	6	8	headorthographic	# m e #
+1722421	4851	4	9	12	headorthographic	# m e #
+1722422	4851	1	0	13	bold	meé/[me/me-]
+1722423	4851	1	14	24	italic	pron.pers.
+1722424	4851	1	61	64	italic	me-
+1722425	4851	1	239	242	italic	me-
+1722426	4851	1	253	261	italic	Mépeé.
+1722427	4851	1	269	288	italic	Muha mépéjucóó.
+1722428	4851	1	303	312	italic	¡Mépeé!
+1722429	4851	2	38	38	newline	""
+1722430	4851	2	39	39	pagebreak	""
+1722431	4851	2	39	39	tab	""
+1722432	4851	2	80	80	newline	""
+1722433	4851	2	81	81	tab	""
+1722434	4851	2	127	127	newline	""
+1722435	4851	2	128	128	tab	""
+1722436	4851	2	172	172	newline	""
+1722437	4851	2	173	173	tab	""
+1722438	4851	2	217	217	newline	""
+1722439	4851	2	218	218	tab	""
+1722440	4851	2	261	261	newline	""
+1722441	4851	2	262	262	tab	""
+1722442	4851	2	298	298	hyphen	""
+1722443	4851	2	298	298	newline	""
+1722444	4851	2	298	298	tab	""
+1722445	5068	3	0	5	head	mí̵a
+1722446	5068	3	6	11	pos	part.
+1722447	5068	3	11	44	translation	expresa sorpresa ante una verdad
+1722448	5068	3	46	68	example-src	Mí̵a uu ímítyuúbe.
+1722449	5068	3	68	88	example-tgt	 De veras eres malo.
+1722450	5068	4	0	5	headorthographic	# m í̵ . a #
+1722451	5068	1	0	5	bold	mí̵a
+1722452	5068	1	6	11	italic	part.
+1722453	5068	1	46	47	italic	M
+1722454	5068	1	50	68	italic	a uu ímítyuúbe.
+1722455	5068	2	41	41	hyphen	""
+1722456	5068	2	41	41	newline	""
+1722457	5068	2	41	41	tab	""
+1722458	5068	2	82	82	newline	""
+1722459	5068	2	83	83	tab	""
+1722460	5070	3	0	10	head	mɨáhmí̵a
+1722461	5070	3	11	16	pos	onom.
+1722462	5070	3	17	65	translation	expresa sorpresa ante un hecho difícil de creer
+1722463	5070	3	67	105	example-src	‘Mɨáhmí̵á’ áánu añú iyáábeke.
+1722464	5070	3	105	148	example-tgt	 ¡Este, por casualidad, baleó a un animal!
+1722465	5070	4	0	10	headorthographic	# m ɨ . á h . m í̵ . a #
+1722466	5070	1	0	10	bold	mɨáhmí̵a
+1722467	5070	1	11	16	italic	onom.
+1722468	5070	1	67	69	italic	‘M
+1722469	5070	1	70	74	italic	áhm
+1722470	5070	1	77	80	italic	á’
+1722471	5070	1	81	105	italic	áánu añú iyáábeke.
+1722472	5070	2	38	38	newline	""
+1722473	5070	2	39	39	tab	""
+1722474	5070	2	80	80	newline	""
+1722475	5070	2	81	81	tab	""
+1722476	5070	2	122	122	hyphen	""
+1722477	5070	2	122	122	newline	""
+1722478	5070	2	122	122	tab	""
+1722479	5074	3	0	15	head	mí̵amúnáalle
+1722480	5074	3	17	21	translation	mujer
+1722481	5074	4	0	15	headorth	 m í̵ a m ú n á a l l e
+1722482	5074	1	0	15	bold	mí̵amúnáalle
+1722483	5074	2	0	0	tab	""
+1722484	5074	2	0	0	tab	""
+1722485	5076	3	1	16	head	mí̵amúnáaave
+1722486	5076	3	18	21	pos	vi.
+1722487	5076	3	24	61	translation	llegar a formar parte de una cultura
+1722488	5076	3	65	85	translation	volverse civilizado
+1722489	5076	3	87	106	translation	volverse respetable
+1722490	5076	3	108	124	translation	volverse decente
+1722491	5076	3	128	151	translation	convertirse en persona
+1722492	5076	3	153	190	example-src	Iyáábeva múúne mí̵ámúnáaavé.
+1722493	5076	3	190	240	example-tgt	 Dice que un animal puede convertirse en persona. 
+1722494	5076	3	242	262	translation	llegar a comprender
+1722495	5076	3	264	307	example-src	Tsúúca ó mí̵ámúnáaavé panévavúre.
+1722496	5076	3	307	332	example-tgt	 Ya comprendo las cosas. 
+1722497	5076	3	334	367	translation	(fig.) sanarse de una enfermedad
+1722498	5076	4	1	16	headorthographic	# m í̵ . a . m ú . n á . aa . v e #
+1722499	5076	1	0	17	bold	[mí̵amúnáaave]
+1722500	5076	1	18	21	italic	vi.
+1722501	5076	1	153	173	italic	Iyáábeva múúne m
+1722502	5076	1	176	190	italic	ámúnáaavé.
+1722503	5076	1	264	307	italic	Tsúúca ó mí̵ámúnáaavé panévavúre.
+1722504	5076	2	0	0	tab	""
+1722505	5076	2	0	0	tab	""
+1722506	5076	2	37	37	hyphen	""
+1722507	5076	2	37	37	newline	""
+1722508	5076	2	37	37	tab	""
+1722509	5076	2	74	74	newline	""
+1722510	5076	2	75	75	tab	""
+1722511	5076	2	111	111	hyphen	""
+1722512	5076	2	111	111	newline	""
+1722513	5076	2	111	111	tab	""
+1722514	5076	2	147	147	hyphen	""
+1722515	5076	2	147	147	newline	""
+1722516	5076	2	147	147	tab	""
+1722517	5076	2	190	190	newline	""
+1722518	5076	2	191	191	tab	""
+1722519	5076	2	227	227	newline	""
+1722520	5076	2	228	228	tab	""
+1722521	5076	2	263	263	newline	""
+1722522	5076	2	264	264	tab	""
+1722523	5076	2	307	307	newline	""
+1722524	5076	2	308	308	tab	""
+1722525	5076	2	344	344	hyphen	""
+1722526	5076	2	344	344	newline	""
+1722527	5076	2	344	344	tab	""
+1722528	5169	3	0	6	head	muúbe
+1722529	5169	3	8	14	head	muubá
+1722530	5169	3	16	33	pos	pron.interr.m.sg.
+1722531	5169	3	33	40	translation	quién
+1722532	5169	3	42	51	translation	de quién
+1722533	5169	3	95	113	example-src	Muubá tsááhií.
+1722534	5169	3	113	129	example-tgt	 ¿Quién viene? 
+1722535	5169	3	129	153	example-src	¿Muubáha?/¿Muubáhajaj?
+1722536	5169	3	153	162	example-tgt	 ¿Quién?
+1722537	5169	4	0	6	headorthographic	# m u . ú . b e #
+1722538	5169	4	8	14	headorthographic	# m uu . b á #
+1722539	5169	1	0	15	bold	muúbe/[muubá]
+1722540	5169	1	16	33	italic	pron.interr.m.sg.
+1722541	5169	1	64	70	italic	muubá
+1722542	5169	1	95	113	italic	Muubá tsááhií.
+1722543	5169	1	129	153	italic	¿Muubáha?/¿Muubáhajaj?
+1722544	5169	2	33	33	newline	""
+1722545	5169	2	34	34	tab	""
+1722546	5169	2	75	75	newline	""
+1722547	5169	2	76	76	tab	""
+1722548	5169	2	121	121	newline	""
+1722549	5169	2	122	122	tab	""
+1722550	5169	2	153	153	newline	""
+1722551	5169	2	154	154	tab	""
+1722552	5170	3	0	7	head	muúbej
+1722553	5170	3	8	12	pos	voc.
+1722554	5170	3	13	20	translation	hermano
+1722555	5170	3	129	134	crossreference	nahbe
+1722556	5170	4	0	7	headorthographic	# m u . ú . b e j #
+1722557	5170	1	0	7	bold	muúbej
+1722558	5170	1	8	12	italic	voc.
+1722559	5170	1	33	40	italic	muúbej
+1722560	5170	1	129	134	bold	nahbe
+1722561	5170	2	40	40	newline	""
+1722562	5170	2	41	41	tab	""
+1722563	5170	2	85	85	newline	""
+1722564	5170	2	86	86	tab	""
+1722565	5170	2	128	128	newline	""
+1722566	5170	2	129	129	tab	""
+1722567	5175	3	0	5	head	múha
+1722568	5175	3	7	10	head	mu-
+1722569	5175	3	12	24	pos	pron.interr.
+1722570	5175	3	24	31	translation	quién
+1722571	5175	3	33	38	translation	quien
+1722572	5175	3	40	56	example-src	¿Múha wajtsí̵?
+1722573	5175	3	56	78	example-tgt	 ¿Quìén ha llegado? 
+1722574	5175	3	78	120	example-src	Tsá o wáájácutú múha wákímyeíñe.
+1722575	5175	3	121	152	example-tgt	No sé quién está trabajando.
+1722576	5175	4	0	5	headorthographic	# m ú . h a #
+1722577	5175	4	7	10	headorthographic	# m u #
+1722578	5175	1	0	11	bold	múha/[mu-]
+1722579	5175	1	12	24	italic	pron.interr.
+1722580	5175	1	40	56	italic	¿Múha wajtsí̵?
+1722581	5175	1	78	120	italic	Tsá o wáájácutú múha wákímyeíñe.
+1722582	5175	1	161	164	italic	mu-
+1722583	5175	2	39	39	newline	""
+1722584	5175	2	40	40	tab	""
+1722585	5175	2	77	77	newline	""
+1722586	5175	2	78	78	tab	""
+1722587	5175	2	120	120	newline	""
+1722588	5175	2	121	121	tab	""
+1722589	5175	2	160	160	newline	""
+1722590	5175	2	161	161	tab	""
+1722591	5175	2	207	207	hyphen	""
+1722592	5175	2	207	207	newline	""
+1722593	5175	2	207	207	tab	""
+1722594	5202	3	0	5	head	muhpɨ
+1722595	5202	3	6	16	pos	pron.pers.
+1722596	5202	3	17	29	translation	nosotras dos
+1722597	5202	3	84	111	example-src	Muhpɨ méújcuté baajúri.
+1722598	5202	3	112	144	example-tgt	Nosotras dos vamos a traer yuca.
+1722599	5202	3	149	154	crossreference	 meé
+1722600	5202	4	0	5	headorthographic	# m u h . p ɨ #
+1722601	5202	1	0	5	bold	muhpɨ
+1722602	5202	1	6	16	italic	pron.pers.
+1722603	5202	1	79	83	italic	me-.
+1722604	5202	1	84	111	italic	Muhpɨ méújcuté baajúri.
+1722605	5202	1	150	154	bold	meé
+1722606	5202	2	38	38	newline	""
+1722607	5202	2	39	39	tab	""
+1722608	5202	2	83	83	newline	""
+1722609	5202	2	84	84	tab	""
+1722610	5202	2	120	120	newline	""
+1722611	5202	2	121	121	tab	""
+1722612	5182	3	0	6	head	muúha
+1722613	5182	3	8	12	head	muha
+1722614	5182	3	14	24	pos	pron.pers.
+1722615	5182	3	25	41	translation	nosotros (excl.)
+1722616	5182	3	114	132	example-src	Muha mémajchóhi.
+1722617	5182	3	133	150	example-tgt	Estamos comiendo.
+1722618	5182	3	156	160	crossreference	meé
+1722619	5182	4	0	6	headorthographic	# m u . ú . h a #
+1722620	5182	4	8	12	headorthographic	# m u . h a #
+1722621	5182	1	0	13	bold	muúha/[muha]
+1722622	5182	1	14	24	italic	pron.pers.
+1722623	5182	1	53	57	italic	muha
+1722624	5182	1	109	125	italic	me-. Muha mémaj
+1722625	5182	1	125	132	italic	chóhi.
+1722626	5182	1	156	160	bold	meé
+1722627	5182	2	33	33	newline	""
+1722628	5182	2	34	34	tab	""
+1722629	5182	2	80	80	newline	""
+1722630	5182	2	81	81	tab	""
+1722631	5182	2	125	125	hyphen	""
+1722632	5182	2	125	125	newline	""
+1722633	5182	2	125	125	tab	""
+1722634	5205	3	0	6	head	muhtsi
+1722635	5205	3	7	17	pos	pron.pers.
+1722636	5205	3	17	30	translation	 nosotros dos
+1722637	5205	3	85	103	example-src	Muhtsi méɨɨcúhi.
+1722638	5205	3	104	133	example-tgt	Nosotros dos estamos jugando.
+1722639	5205	3	139	143	crossreference	meé
+1722640	5205	4	0	6	headorthographic	# m u h . ts i #
+1722641	5205	1	0	6	bold	muhtsi
+1722642	5205	1	7	17	italic	pron.pers.
+1722643	5205	1	80	84	italic	me-.
+1722644	5205	1	85	103	italic	Muhtsi méɨɨcúhi.
+1722645	5205	1	139	143	bold	meé
+1722646	5205	2	37	37	hyphen	""
+1722647	5205	2	37	37	newline	""
+1722648	5205	2	37	37	tab	""
+1722649	5205	2	84	84	newline	""
+1722650	5205	2	85	85	tab	""
+1722651	5205	2	121	121	hyphen	""
+1722652	5205	2	121	121	newline	""
+1722653	5205	2	121	121	tab	""
+1722654	5223	3	0	7	head	muúlle
+1722655	5223	3	9	16	head	muullá
+1722656	5223	3	18	30	pos	pron.interr.
+1722657	5223	3	30	61	translation	quién (mujer o animal hembra)
+1722658	5223	3	63	72	example-src	¿Muúlle?
+1722659	5223	3	72	82	example-tgt	 ¿Quién? 
+1722660	5223	3	82	105	example-src	¿Múúlleké ú tsivá?
+1722661	5223	3	106	128	example-tgt	¿A quién has traído?
+1722662	5223	3	172	192	example-src	¿Muullá tsááhií?
+1722663	5223	3	192	215	example-tgt	 ¿Quién (mujer) viene?
+1722664	5223	4	0	7	headorthographic	# m u . ú . ll e #
+1722665	5223	4	9	16	headorthographic	# m uu . ll á #
+1722666	5223	1	0	17	bold	muúlle/[muullá]
+1722667	5223	1	18	30	italic	pron.interr.
+1722668	5223	1	63	72	italic	¿Muúlle?
+1722669	5223	1	82	105	italic	¿Múúlleké ú tsivá?
+1722670	5223	1	140	147	italic	muullá
+1722671	5223	1	172	192	italic	¿Muullá tsááhií?
+1722672	5223	2	37	37	newline	""
+1722673	5223	2	38	38	tab	""
+1722674	5223	2	72	72	newline	""
+1722675	5223	2	73	73	tab	""
+1722676	5223	2	115	115	newline	""
+1722677	5223	2	116	116	tab	""
+1722678	5223	2	160	160	newline	""
+1722679	5223	2	161	161	tab	""
+1722680	5223	2	204	204	hyphen	""
+1722681	5223	2	204	204	newline	""
+1722682	5223	2	204	204	tab	""
+1722683	5248	3	0	7	head	múúne
+1722684	5248	3	8	13	pos	part.
+1722685	5248	3	14	39	translation	indica cómo se hace algo
+1722686	5248	3	88	130	example-src	Íllu múúne núhbakye méímíbajchóhi.
+1722687	5248	3	130	156	example-tgt	 Así se arregla un reloj.
+1722688	5248	4	0	7	headorthographic	# m úú . n e #
+1722689	5248	1	0	7	bold	múúne
+1722690	5248	1	8	13	italic	part.
+1722691	5248	1	52	55	italic	me-
+1722692	5248	1	88	130	italic	Íllu múúne núhbakye méímíbajchóhi.
+1722693	5248	2	40	40	newline	""
+1722694	5248	2	41	41	tab	""
+1722695	5248	2	87	87	newline	""
+1722696	5248	2	88	88	tab	""
+1722697	5248	2	130	130	newline	""
+1722698	5248	2	131	131	tab	""
+1722714	5249	1	132	138	italic	muuré
+1722699	5249	3	0	6	head	muurá
+1722700	5249	3	0	9	head	muuráh
+1722701	5249	3	11	17	head	muuré
+1722702	5249	3	19	23	pos	adv.
+1722703	5249	3	23	76	translation	pues (indica afirmación o credibilidad de una cosa)
+1722704	5249	3	78	107	example-src	Muurá tsá dibye pééityú.
+1722705	5249	3	108	123	example-tgt	El no va, pues.
+1722706	5249	3	166	198	example-src	Muurévá tsá dibye pééityú.
+1722707	5249	3	198	225	example-tgt	 Dicen que él no va, pues.
+1722708	5249	4	0	6	headorthographic	# m uu . r á #
+1722709	5249	4	0	9	headorthographic	# m uu . r á h #
+1722710	5249	4	11	17	headorthographic	# m uu . r é #
+1722711	5249	1	0	18	bold	muurá(h)/[muuré]
+1722712	5249	1	19	23	italic	adv.
+1722713	5249	1	78	107	italic	Muurá tsá dibye pééityú.
+1722715	5249	1	166	198	italic	Muurévá tsá dibye pééityú.
+1722716	5249	2	36	36	newline	""
+1722717	5249	2	37	37	tab	""
+1722718	5249	2	73	73	hyphen	""
+1722719	5249	2	73	73	newline	""
+1722720	5249	2	73	73	tab	""
+1722721	5249	2	113	113	newline	""
+1722722	5249	2	114	114	tab	""
+1722723	5249	2	156	156	newline	""
+1722724	5249	2	157	157	tab	""
+1722725	5249	2	201	201	hyphen	""
+1722726	5249	2	201	201	newline	""
+1722727	5249	2	201	201	tab	""
+1722728	5259	3	0	6	head	muúte
+1722729	5259	3	8	14	head	muutá
+1722730	5259	3	16	36	pos	pron.interr.m./f.pl.
+1722731	5259	3	36	45	translation	 quiénes
+1722732	5259	3	90	108	example-src	Muutá tsááhií?
+1722733	5259	3	109	126	example-tgt	¿Quiénes vienen?
+1722734	5259	3	127	150	example-src	¿Muutáha?/¿Muutáhaja?
+1722735	5259	3	151	169	example-tgt	¿Quiénes quizás?
+1722736	5259	4	0	6	headorthographic	# m u . ú . t e #
+1722737	5259	4	8	14	headorthographic	# m uu . t á #
+1722738	5259	1	0	15	bold	muúte/[muutá]
+1722739	5259	1	16	36	italic	pron.interr.m./f.pl.
+1722740	5259	1	58	64	italic	muutá
+1722741	5259	1	89	108	italic	¿Muutá tsááhií?
+1722742	5259	1	127	157	italic	¿Muutáha?/¿Muutáhaja? ¿Quié
+1722743	5259	2	36	36	newline	""
+1722744	5259	2	37	37	tab	""
+1722745	5259	2	80	80	newline	""
+1722746	5259	2	81	81	tab	""
+1722747	5259	2	122	122	hyphen	""
+1722748	5259	2	122	122	newline	""
+1722749	5259	2	122	122	tab	""
+1722750	5259	2	157	157	hyphen	""
+1722751	5259	2	157	157	newline	""
+1722752	5259	2	157	157	tab	""
+1722753	5484	3	0	18	head	neríívyewááhyo
+1722754	5484	3	19	21	pos	s.
+1722755	5484	3	21	30	translation	escalera
+1722756	5484	3	49	64	crossreference	niityéwááhyo
+1722757	5484	3	66	78	head	néétsaméi
+1722758	5484	3	78	83	pos	 abs.
+1722759	5484	3	84	97	translation	acción de...
+1722760	5484	4	0	18	headorthographic	# n e . r íí . vy e . w áá h . y o #
+1722761	5484	1	0	18	bold	neríívyewááhyo
+1722762	5484	1	19	21	italic	s.
+1722763	5484	1	49	64	bold	niityéwááhyo
+1722764	5484	1	66	78	bold	néétsaméi
+1722765	5484	1	79	83	italic	abs.
+1722766	5484	2	39	39	newline	""
+1722767	5484	2	40	40	tab	""
+1722768	5484	2	65	65	newline	""
+1722769	5484	2	66	66	tab	""
+1722770	6509	3	0	9	head	pejcátsi
+1722771	6509	3	9	14	pos	abs.
+1722772	6509	3	15	132	translation	baile en el que las parejas dan saltos con los brazos entrelazados y que se baila en las fiestas báhjaá y llaaríwa
+1722773	6509	4	0	9	headorthographic	# p e j . c á . ts i #
+1722774	6509	1	0	9	bold	pejcátsi
+1722775	6509	1	9	14	italic	abs.
+1722776	6509	1	112	120	italic	báhjaá
+1722777	6509	1	123	133	italic	llaaríwa.
+1722778	6509	2	42	42	newline	""
+1722779	6509	2	43	43	tab	""
+1722780	6509	2	81	81	newline	""
+1722781	6509	2	82	82	tab	""
+1722782	6509	2	122	122	newline	""
+1722783	6509	2	123	123	tab	""
+1722807	6776	3	1	11	head	pɨcábaanu
+1722808	6776	3	13	16	pos	vt.
+1722809	6776	3	17	101	translation	dar la bebida pí̵í̵caba a los invitados a la fiesta a cambio de lo que han traído
+1722810	6776	3	103	131	example-src	Ó pɨcábaanú níívúwake.
+1722811	6776	3	132	175	example-tgt	Estoy dando pí̵í̵caba a cambio de venado.
+1722812	6776	4	1	11	headorthographic	# p ɨ . c á . b aa . n u #
+1722813	6776	1	0	12	bold	[pɨcábaanu]
+1722814	6776	1	13	16	italic	vt.
+1722815	6776	1	31	42	italic	pí̵í̵caba
+1722816	6776	1	103	111	italic	Ó pɨcá
+1722817	6776	1	111	131	italic	baanú níívúwake.
+1722818	6776	1	144	156	italic	pí̵í̵caba
+1722819	6776	2	0	0	tab	""
+1722820	6776	2	0	0	tab	""
+1722821	6776	2	30	30	newline	""
+1722822	6776	2	31	31	tab	""
+1722823	6776	2	72	72	newline	""
+1722824	6776	2	73	73	tab	""
+1722825	6776	2	111	111	hyphen	""
+1722826	6776	2	111	111	newline	""
+1722827	6776	2	111	111	tab	""
+1722828	6776	2	143	143	newline	""
+1722829	6776	2	144	144	tab	""
+1722830	6898	3	0	4	head	pooo
+1722831	6898	3	5	10	pos	onom.
+1722832	6898	3	10	43	translation	sonido de un disparo de escopeta
+1722833	6898	4	0	4	headorth	# p ooo #
+1722834	6898	1	0	4	bold	pooo
+1722835	6898	1	5	10	italic	onom.
+1722836	6898	1	54	58	bold	tooo
+1722837	6898	2	37	37	hyphen	""
+1722838	6898	2	37	37	newline	""
+1722839	6898	2	37	37	tab	""
+1722840	6993	3	0	4	head	rɨɨɨ
+1722841	6993	3	5	10	pos	onom.
+1722842	6993	3	10	36	translation	sonido débil de un motor
+1722843	6993	4	0	4	headorth	# r ɨɨɨ #
+1722844	6993	1	0	4	bold	rɨɨɨ
+1722845	6993	1	5	10	italic	onom.
+1722846	6997	3	0	4	head	rooo
+1722847	6997	3	5	10	pos	onom.
+1722848	6997	3	13	46	translation	sonido del vuelo de la chicharra
+1722849	6997	3	50	80	translation	sonido como de motor o avión
+1722850	6997	4	0	4	headorth	# r ooo #
+1722851	6997	1	0	4	bold	rooo
+1722852	6997	1	5	10	italic	onom.
+1722853	6997	2	36	36	newline	""
+1722854	6997	2	37	37	tab	""
+1722855	6997	2	73	73	newline	""
+1722856	6997	2	74	74	tab	""
+1722867	7087	3	0	11	head	tabítábi
+1722868	7087	3	12	17	pos	onom.
+1722869	7087	3	17	69	translation	expresa la acción de pisotear la tierra de cólera
+1722870	7087	1	0	11	bold	tabítábi
+1722871	7087	1	12	17	italic	onom.
+1722872	7087	2	42	42	hyphen	""
+1722873	7087	2	42	42	newline	""
+1722874	7087	2	42	42	tab	""
+1722919	7733	3	1	15	head	tuhnúmúva̱te
+1722920	7733	3	17	20	pos	vi.
+1722921	7733	3	20	31	translation	agusanarse
+1722922	7733	3	33	63	translation	ponerse agusanado con tuhnúmu
+1722923	7733	3	65	93	example-src	Páállaho tuhnúmúvatéhi.
+1722924	7733	3	93	130	example-tgt	 La masa de almidón se ha agusanada.
+1722925	7733	4	1	15	headorthographic	# t u h . n ú . m ú . v a̱ . t e #
+1722926	7733	1	0	16	bold	[tuhnúmúva̱te]
+1722927	7733	1	17	20	italic	vi.
+1722928	7733	1	55	70	italic	tuhnúmu. Páá
+1722929	7733	1	70	93	italic	llaho tuhnúmúvatéhi.
+1722930	7733	2	0	0	tab	""
+1722931	7733	2	0	0	tab	""
+1722932	7733	2	35	35	hyphen	""
+1722933	7733	2	35	35	newline	""
+1722934	7733	2	35	35	tab	""
+1722935	7733	2	70	70	hyphen	""
+1722936	7733	2	70	70	newline	""
+1722937	7733	2	70	70	tab	""
+1722938	7733	2	107	107	hyphen	""
+1722939	7733	2	107	107	newline	""
+1722940	7733	2	107	107	tab	""
+1722941	41	3	1	10	head	áába̱nu
+1722942	41	3	12	15	pos	vi.
+1722943	41	3	18	31	translation	descolorarse
+1722944	41	3	33	41	translation	opacarse
+1722945	41	3	43	91	example-src	Táwajyámú oonóvá tsúúca áábanújucóó.
+1722946	41	3	91	135	example-tgt	 El tinte de mi ropa se está descolorando. 
+1722947	41	3	137	149	translation	oscurecerse
+1722948	41	3	151	166	translation	volverse oscuro
+1722949	41	3	168	177	translation	ocultarse
+1722950	41	3	179	203	example-src	Cuuve nuhba áábanúhi.
+1722951	41	3	203	234	example-tgt	 En la tarde el sol se oculta. 
+1722952	41	3	237	242	pos	fig.
+1722953	41	3	244	258	translation	volverse viejo
+1722954	41	3	260	290	translation	perder su juventud o hermosura
+1722955	41	3	292	323	example-src	Tsúúca ó áábanú tájpií.
+1722956	41	3	323	375	example-tgt	 Ya estoy perdiendo mi hermosura. (sinón. teevénu)
+1722957	41	4	1	10	headorthographic	# áá b a̱ n u #
+1722958	41	1	0	11	bold	[áába̱nu]
+1722959	41	1	12	15	italic	vi.
+1722960	41	1	43	78	italic	Táwajyámú oonóvá tsúúca áá
+1722961	41	1	78	91	italic	banújucóó.
+1722962	41	1	179	195	italic	Cuuve nuhba áá
+1722963	41	1	195	203	italic	banúhi.
+1722964	41	1	292	313	italic	Tsúúca ó áábanú
+1722965	41	1	314	323	italic	tájpií.
+1722966	41	1	366	374	bold	teevénu
+1722967	41	2	0	0	tab	""
+1722968	41	2	0	0	tab	""
+1722969	41	2	36	36	hyphen	""
+1722970	41	2	36	36	newline	""
+1722971	41	2	36	36	tab	""
+1722972	41	2	78	78	hyphen	""
+1722973	41	2	78	78	newline	""
+1722974	41	2	78	78	tab	""
+1722975	41	2	120	120	newline	""
+1722976	41	2	121	121	tab	""
+1722977	41	2	157	157	hyphen	""
+1722978	41	2	157	157	newline	""
+1722979	41	2	157	157	tab	""
+1722980	41	2	195	195	hyphen	""
+1722981	41	2	195	195	newline	""
+1722982	41	2	195	195	tab	""
+1722983	41	2	233	233	newline	""
+1722984	41	2	234	234	tab	""
+1722985	41	2	272	272	hyphen	""
+1722986	41	2	272	272	newline	""
+1722987	41	2	272	272	tab	""
+1722988	41	2	313	313	newline	""
+1722989	41	2	314	314	tab	""
+1722990	41	2	351	351	hyphen	""
+1722991	41	2	351	351	newline	""
+1722992	41	2	351	351	tab	""
+1723013	7925	3	0	8	head	tsáhaá
+1723014	7925	3	9	15	head	tsáha
+1723015	7925	3	17	21	head	tsá
+1723016	7925	3	17	24	head	tsáh
+1723017	7925	3	26	30	pos	adv.
+1723018	7925	3	31	33	translation	no
+1723019	7925	3	159	177	example-src	Tsá o pééityú.
+1723020	7925	3	177	186	example-tgt	 No iré.
+1723021	7925	4	0	8	headorthographic	# ts á . h a . á #
+1723022	7925	4	9	15	headorthographic	# ts á . h a #
+1723023	7925	4	17	21	headorthographic	# ts á #
+1723024	7925	4	17	24	headorthographic	# ts á h #
+1723025	7925	1	0	25	bold	tsáhaá/tsáha/[tsá(h)]
+1723026	7925	1	26	30	italic	adv.
+1723027	7925	1	47	55	italic	tsáhaá
+1723028	7925	1	58	64	italic	tsáha
+1723029	7925	1	94	98	italic	tsá
+1723030	7925	1	159	177	italic	Tsá o pééityú.
+1723031	7925	2	41	41	hyphen	""
+1723032	7925	2	41	41	newline	""
+1723033	7925	2	41	41	tab	""
+1723034	7925	2	89	89	hyphen	""
+1723035	7925	2	89	89	newline	""
+1723036	7925	2	89	89	tab	""
+1723037	7925	2	136	136	hyphen	""
+1723038	7925	2	136	136	newline	""
+1723039	7925	2	136	136	tab	""
+1723040	7925	2	180	180	newline	""
+1723041	7925	2	181	181	tab	""
+1723070	8551	3	0	3	head	új
+1723071	8551	3	4	11	head	úúúj
+1723072	8551	3	12	19	pos	interj.
+1723073	8551	3	19	24	translation	oh
+1723074	8551	4	0	3	headorthographic	# ú j #
+1723075	8551	4	4	11	headorth	# úúú j #
+1723076	8551	1	0	11	bold	új/úúúj
+1723077	8551	1	12	19	italic	interj.
+1723089	8886	3	0	7	head	vííí
+1723090	8886	3	8	13	pos	onom.
+1723091	8886	3	13	40	translation	sonido agudo de un silbido
+1723092	8886	3	42	80	example-src	Ócájí hajchi ihjyúcunú vííí.
+1723093	8886	3	80	114	example-tgt	 La cría de una sachavaca silbó.
+1723094	8886	4	0	7	headorth	# v ííí #
+1723095	8886	1	0	7	bold	vííí
+1723096	8886	1	8	13	italic	onom.
+1723097	8886	1	42	80	italic	Ócájí hajchi ihjyúcunú ‘vííí’.
+1723098	8886	2	41	41	newline	""
+1723099	8886	2	42	42	tab	""
+1723100	8886	2	89	89	newline	""
+1723101	8886	2	90	90	tab	""
+1723102	9038	3	1	13	head	wábúniáco
+1723103	9038	3	15	27	head	wábúnijcyo
+1723104	9038	3	29	32	pos	vt.
+1723105	9038	3	35	42	translation	abatir
+1723106	9038	3	44	86	translation	derribar una cosa que está encima de otra
+1723107	9038	3	88	137	example-src	Úméneba ó wábúniácó téhajcú ní̵jcáutu.
+1723108	9038	3	137	185	example-tgt	 Empujé un tronco que estaba sobre la quiruma. 
+1723109	9038	3	188	255	translation	(fig. Solamente con wábuníjcyo.) impedir el uso de malas palabras
+1723110	9038	3	257	290	translation	oponerse al uso de malas palabras
+1723111	9038	3	292	333	translation	no permitir que otro hable malas palabras
+1723112	9038	3	335	389	example-src	Táñaalle néhní íhjyúváiyóné ó wábúnijcyó.
+1723113	9038	3	389	440	example-tgt	 No le permití a mi hermana hablar malas palabras.
+1723114	9038	4	1	13	headorthographic	# w á . b ú . n i . á . c o #
+1723115	9038	4	15	27	headorthographic	# w á . b ú . n i j . cy o #
+1723116	9038	1	0	28	bold	[wábúniáco, wábúnijcyo]
+1723117	9038	1	29	32	italic	vt.
+1723118	9038	1	88	111	italic	Úméneba ó wábúniá
+1723119	9038	1	111	137	italic	có téhajcú ní̵jcáutu.
+1723120	9038	1	208	221	italic	wábuníjcyo.
+1723121	9038	1	335	342	italic	Táñaa
+1723122	9038	1	342	389	italic	lle néhní íhjyúváiyóné ó wábúnijcyó.
+1723123	9038	2	0	0	tab	""
+1723124	9038	2	0	0	tab	""
+1723125	9038	2	32	32	newline	""
+1723126	9038	2	33	33	tab	""
+1723127	9038	2	71	71	newline	""
+1723128	9038	2	72	72	tab	""
+1723129	9038	2	111	111	hyphen	""
+1723130	9038	2	111	111	newline	""
+1723131	9038	2	111	111	tab	""
+1723132	9038	2	153	153	hyphen	""
+1723133	9038	2	153	153	newline	""
+1723134	9038	2	153	153	tab	""
+1723135	9038	2	184	184	newline	""
+1723136	9038	2	185	185	tab	""
+1723137	9038	2	227	227	hyphen	""
+1723138	9038	2	227	227	newline	""
+1723139	9038	2	227	227	tab	""
+1723140	9038	2	265	265	newline	""
+1723141	9038	2	266	266	tab	""
+1723142	9038	2	303	303	newline	""
+1723143	9038	2	304	304	tab	""
+1723144	9038	2	342	342	hyphen	""
+1723145	9038	2	342	342	newline	""
+1723146	9038	2	342	342	tab	""
+1723147	9038	2	389	389	newline	""
+1723148	9038	2	390	390	tab	""
+1723149	9038	2	424	424	newline	""
+1723150	9038	2	425	425	tab	""
+1723151	9493	3	1	12	head	wámɨhjúcu
+1723152	9493	3	14	22	head	wámɨhco
+1723153	9493	3	24	27	pos	vt.
+1723154	9493	3	30	62	translation	mover la cabeza de arriba abajo
+1723155	9493	3	66	75	translation	cabecear
+1723156	9493	3	78	98	translation	golpear con la cabeza
+1723157	9493	3	102	146	example-src	Ɨ́í̵cú-múnáajpíi wámɨhjúcú peróótau.
+1723158	9493	3	148	190	example-tgt	El jugador golpeó la pelota con la cabeza.
+1723159	9493	4	1	12	headorth	w á m ɨ h j ú c u
+1723160	9493	4	14	22	headorth	w á m ɨ h c o
+1723161	9493	1	0	23	bold	[wámɨhjúcu, wámɨhco]
+1723162	9493	1	24	27	italic	vt.
+1723163	9493	1	102	146	italic	Ɨí̵cú-múnáajpíi wámɨhjúcú peróótau.
+1723164	9493	2	0	0	tab	""
+1723165	9493	2	0	0	tab	""
+1723166	9493	2	36	36	newline	""
+1723167	9493	2	37	37	tab	""
+1723168	9493	2	76	76	newline	""
+1723169	9493	2	77	77	tab	""
+1723170	9493	2	121	121	newline	""
+1723171	9493	2	122	122	tab	""
+1723172	9493	2	161	161	hyphen	""
+1723173	9493	2	161	161	newline	""
+1723174	9493	2	161	161	tab	""
+1723175	9476	3	0	19	head	wállúrí̵jɨjcáro
+1723176	9476	3	22	37	head	wálĺrɨjí̵jco
+1723177	9476	3	39	42	pos	abs.
+1723178	9476	4	0	19	headorth	w á ll ú r í̵ j ɨ j c á r o
+1723179	9476	4	22	37	headorth	w á l l ú r ɨ j í̵ j c o
+1723180	9476	1	0	37	bold	wállúrí̵jɨjcáro, wálĺrɨjí̵jco
+1723181	9476	1	39	42	italic	abs.
+1723182	9476	2	50	50	newline	""
+1723183	9476	2	51	51	tab	""
+1723184	9499	3	1	12	head	wámooháyo
+1723185	9499	3	14	27	head	wámóóhañu
+1723186	9499	3	29	32	pos	vt.
+1723187	9499	3	35	50	translation	hacer desfilar
+1723188	9499	3	52	65	translation	poner en fila
+1723189	9499	3	69	109	example-src	Ɨ́í̵tsí̵í̵meke wámooháyoobe juuváyi.
+1723190	9499	3	109	152	example-tgt	 El puso a sus hijos en fila en el camino. 
+1723191	9499	3	154	162	translation	estirar
+1723192	9499	4	1	12	headorth	w á m oo h á y o
+1723193	9499	4	14	27	headorth	w á m óó h a n ̃ u
+1723194	9499	1	0	28	bold	[wámooháyo, wámóóhañu]
+1723195	9499	1	29	32	italic	vt.
+1723196	9499	1	69	109	italic	Ɨ́í̵tsí̵í̵meke wámooháyoobe juuváyi.
+1723197	9499	2	0	0	tab	""
+1723198	9499	2	0	0	tab	""
+1723199	9499	2	32	32	newline	""
+1723200	9499	2	33	33	tab	""
+1723201	9499	2	80	80	hyphen	""
+1723202	9499	2	80	80	newline	""
+1723203	9499	2	80	80	tab	""
+1723204	9499	2	117	117	newline	""
+1723205	9499	2	118	118	tab	""
+1723206	9499	2	157	157	hyphen	""
+1723207	9499	2	157	157	newline	""
+1723208	9499	2	157	157	tab	""
+1723209	9559	3	1	10	head	wáñejco
+1723210	9559	3	12	15	pos	vi.
+1723211	9559	3	16	53	translation	gritar ñóooo para animar una fiesta
+1723212	9559	3	55	90	example-src	Aatye wáñejcó kijcyó-múnáake.
+1723213	9559	3	90	121	example-tgt	 Ellos animan a los bailarines.
+1723214	9559	4	1	10	headorthographic	# w á . ñ e j . c o #
+1723215	9559	1	0	11	bold	[wáñejco]
+1723216	9559	1	12	15	italic	vi.
+1723217	9559	1	23	30	italic	ñóooo
+1723218	9559	1	55	75	italic	Aatye wáñejcó kij
+1723219	9559	1	75	90	italic	cyó-múnáake.
+1723220	9559	2	0	0	tab	""
+1723221	9559	2	0	0	tab	""
+1723222	9559	2	39	39	hyphen	""
+1723223	9559	2	39	39	newline	""
+1723224	9559	2	39	39	tab	""
+1723225	9559	2	75	75	hyphen	""
+1723226	9559	2	75	75	newline	""
+1723227	9559	2	75	75	tab	""
+1723228	9559	2	113	113	hyphen	""
+1723229	9559	2	113	113	newline	""
+1723230	9559	2	113	113	tab	""
+1723231	9597	3	1	9	head	wápɨjco
+1723232	9597	3	11	14	pos	vt.
+1723233	9597	3	17	24	translation	abonar
+1723234	9597	3	26	74	example-src	Paíjyuváré tabájtsó ó wápí̵cohíjcyáhi.
+1723235	9597	3	74	102	example-tgt	 Siempre abono mis plantas. 
+1723236	9597	3	105	113	translation	embarrar
+1723237	9597	3	115	178	example-src	Íñahbévajte wápɨjcó ííñuri; áábeke tsɨɨju tsojtsóhi.
+1723238	9597	3	178	234	example-tgt	 Sus amigos lo embarraron y su mamá lo tuvo que bañar.
+1723239	9597	4	1	9	headorthographic	# w á . p ɨ j . c o #
+1723240	9597	1	0	10	bold	[wápɨjco]
+1723241	9597	1	11	14	italic	vt.
+1723242	9597	1	26	39	italic	Paíjyuváré
+1723243	9597	1	40	74	italic	tabájtsó ó wápí̵cohíjcyáhi.
+1723244	9597	1	117	121	italic	ñah
+1723245	9597	1	121	166	italic	bévajte wápɨjcó ííñuri; áábeke tsɨɨju
+1723246	9597	1	167	178	italic	tsojtsóhi.
+1723247	9597	2	0	0	tab	""
+1723248	9597	2	0	0	tab	""
+1723249	9597	2	39	39	newline	""
+1723250	9597	2	40	40	tab	""
+1723251	9597	2	82	82	newline	""
+1723252	9597	2	83	83	tab	""
+1723253	9597	2	121	121	hyphen	""
+1723254	9597	2	121	121	newline	""
+1723255	9597	2	121	121	tab	""
+1723256	9597	2	166	166	newline	""
+1723257	9597	2	167	167	tab	""
+1723258	9597	2	205	205	newline	""
+1723259	9597	2	206	206	tab	""
+1723260	228	3	1	8	head	áiivye
+1723261	228	3	10	17	head	ááiba
+1723262	228	3	19	22	pos	vi.
+1723263	228	3	25	34	translation	quemarse
+1723264	228	3	36	56	translation	consumirse con fuego
+1723265	228	3	58	89	example-src	Táwajcyóhá ímí áiivyéhi.
+1723266	228	3	89	116	example-tgt	 Mi chacra se quemó bien. 
+1723267	228	3	116	162	example-src	Jááhañe ááibá páneeréjuco tsaíjyúre.
+1723268	228	3	163	207	example-tgt	Todas las casas se quemaron al mismo tiempo.
+1723269	228	3	217	222	crossreference	ajtye
+1723270	228	3	226	252	translation	quemarse superficialmente
+1723271	228	3	254	286	example-src	Ájchíwu áiivyé cúújúwari.
+1723272	228	3	286	320	example-tgt	 Mi hijo se quemó en la candela. 
+1723273	228	3	322	342	translation	(fig.) tener fiebre
+1723274	228	3	344	374	example-src	ájchíwu mítyane áiivyéhi.
+1723275	228	3	374	402	example-tgt	 Mi hijo tiene mucha fiebre.
+1723276	228	4	1	8	headorthographic	# á . ii . vy e #
+1723277	228	4	10	17	headorthographic	# áá . i . b a #
+1723278	228	1	0	18	bold	[áiivye, ááiba]
+1723279	228	1	19	22	italic	vi.
+1723280	228	1	58	77	italic	Táwajcyóhá ímí
+1723281	228	1	78	89	italic	áiivyéhi.
+1723282	228	1	116	162	italic	Jááhañe ááibá páneeréjuco tsaíjyúre.
+1723283	228	1	217	222	bold	ajtye
+1723284	228	1	254	278	italic	Ájchíwu áiivyé cúú
+1723285	228	1	278	286	italic	júwari.
+1723286	228	1	344	357	italic	ájchíwu mí
+1723287	228	1	357	374	italic	tyane áiivyéhi.
+1723288	228	2	0	0	tab	""
+1723289	228	2	0	0	tab	""
+1723290	228	2	39	39	hyphen	""
+1723291	228	2	39	39	newline	""
+1723292	228	2	39	39	tab	""
+1723293	228	2	77	77	newline	""
+1723294	228	2	78	78	tab	""
+1723295	228	2	115	115	newline	""
+1723296	228	2	116	116	tab	""
+1723297	228	2	162	162	newline	""
+1723298	228	2	163	163	tab	""
+1723299	228	2	197	197	hyphen	""
+1723300	228	2	197	197	newline	""
+1723301	228	2	197	197	tab	""
+1723302	228	2	235	235	newline	""
+1723303	228	2	236	236	tab	""
+1723304	228	2	278	278	hyphen	""
+1723305	228	2	278	278	newline	""
+1723306	228	2	278	278	tab	""
+1723307	228	2	316	316	hyphen	""
+1723308	228	2	316	316	newline	""
+1723309	228	2	316	316	tab	""
+1723310	228	2	357	357	hyphen	""
+1723311	228	2	357	357	newline	""
+1723312	228	2	357	357	tab	""
+1723313	228	2	394	394	newline	""
+1723314	228	2	395	395	tab	""
+1723315	9646	3	0	11	head	wátaaháco
+1723316	9646	3	13	21	head	watájco
+1723317	9646	3	22	26	pos	abs.
+1723318	9646	3	29	34	translation	tapa
+1723319	9646	3	36	64	translation	cubierta (solo con watájco)
+1723320	9646	3	68	77	translation	tapadura
+1723321	9646	3	79	89	translation	tapamiento
+1723322	9646	3	91	102	translation	cerramiento
+1723323	9646	4	0	11	headorthographic	# w á . t aa . h á . c o #
+1723324	9646	4	13	21	headorthographic	# w a . t á j . c o #
+1723325	9646	1	0	21	bold	wátaaháco, watájco
+1723326	9646	1	22	26	italic	abs.
+1723327	9646	1	55	63	italic	watájco
+1723328	9646	2	44	44	newline	""
+1723329	9646	2	45	45	tab	""
+1723330	9646	2	83	83	hyphen	""
+1723331	9646	2	83	83	newline	""
+1723332	9646	2	83	83	tab	""
+1723348	645	3	1	18	head	ávyejújkímye̱i
+1723349	645	3	20	23	pos	vr.
+1723350	645	3	23	33	translation	superarse
+1723351	645	3	35	48	translation	engrandecerse
+1723352	645	3	50	69	translation	volverse importante
+1723353	645	3	72	156	example-src	Ɨ́dátsóhrée néhíjcyaabe tsúúca ávyéjújkímyeí náhjí̵heho imyéénúneri.
+1723354	645	3	156	274	example-tgt	 El que era considerado humilde se volvió importante por la bodega que tiene. (sinón. í̵hnahóóve, í̵htsutúúve)
+1723355	645	4	1	18	headorth	á vy e j ú j k í my e̱ i
+1723356	645	1	0	19	bold	[ávyejújkímye̱i]
+1723357	645	1	20	23	italic	vr.
+1723358	645	1	73	115	italic	dátsóhrée néhíjcyaabe tsúúca ávyé
+1723359	645	1	115	156	italic	jújkímyeí náhjí̵heho imyéénúneri.
+1723360	645	1	244	273	bold	í̵hnahóóve, í̵htsutúúve
+1723361	645	2	0	0	tab	""
+1723362	645	2	0	0	tab	""
+1723363	645	2	37	37	hyphen	""
+1723364	645	2	37	37	newline	""
+1723365	645	2	37	37	tab	""
+1723366	645	2	70	70	newline	""
+1723367	645	2	71	71	tab	""
+1723368	645	2	115	115	hyphen	""
+1723369	645	2	115	115	newline	""
+1723370	645	2	115	115	tab	""
+1723371	645	2	159	159	newline	""
+1723372	645	2	160	160	tab	""
+1723373	645	2	194	194	hyphen	""
+1723374	645	2	194	194	newline	""
+1723375	645	2	194	194	tab	""
+1723376	645	2	231	231	hyphen	""
+1723377	645	2	231	231	newline	""
+1723378	645	2	231	231	tab	""
+1723379	668	3	1	12	head	ávyetétso
+1723380	668	3	14	17	pos	vt.
+1723381	668	3	17	25	translation	agravar
+1723382	668	3	28	79	example-src	Ɨhtsútáré chéméébeke aíívyé ávyetétsóhi.
+1723383	668	3	79	120	example-tgt	 La fiebre agravó el estado del enfermo.
+1723384	668	4	1	12	headorth	á vy e t é ts o
+1723385	668	1	0	13	bold	[ávyetétso]
+1723386	668	1	14	17	italic	vt.
+1723387	668	1	28	39	italic	htsútáré
+1723388	668	1	40	79	italic	chéméébeke aíívyé ávyetétsóhi.
+1723389	668	2	0	0	tab	""
+1723390	668	2	0	0	tab	""
+1723391	668	2	39	39	newline	""
+1723392	668	2	40	40	tab	""
+1723393	668	2	82	82	newline	""
+1723394	668	2	83	83	tab	""
+1723395	1688	3	1	19	head	cátí̵í̵tɨjí̵ro
+1723396	1688	3	22	39	head	cátí̵í̵tí̵jɨnu
+1723397	1688	3	42	44	pos	vt.
+1723398	1688	3	46	52	translation	alinear
+1723399	1688	3	55	61	translation	igualar
+1723400	1688	3	64	72	translation	emparejar
+1723401	1688	3	75	106	translation	poner iguales las puntas de algo
+1723402	1688	3	108	156	example-src	Ménɨjí̵ba cátí̵í̵tɨjí̵nú mepícyoíñuki.
+1723403	1688	3	156	215	example-tgt	 Iguala las puntas de las fibras de chambira para ponerlas.
+1723404	1688	4	1	19	headorth	c á t í̵ í̵ t ɨ j í̵ r o
+1723405	1688	4	22	39	headorth	c á t í̵ í̵ t í̵ j ɨ n u
+1723406	1688	1	0	19	bold	cátí̵í̵tɨjí̵ro
+1723407	1688	1	22	39	bold	cátí̵í̵tí̵jɨnu
+1723408	1688	1	41	44	italic	vt.
+1723409	1688	1	108	139	italic	Ménɨjí̵ba cátí̵í̵tɨjí̵nú
+1723410	1688	1	140	156	italic	mepícyoíñuki.
+1723411	1688	2	0	0	tab	""
+1723412	1688	2	0	0	tab	""
+1723413	1688	2	53	53	newline	""
+1723414	1688	2	54	54	tab	""
+1723415	1688	2	91	91	newline	""
+1723416	1688	2	92	92	tab	""
+1723417	1688	2	139	139	newline	""
+1723418	1688	2	140	140	tab	""
+1723419	1688	2	181	181	newline	""
+1723420	1688	2	182	182	tab	""
+1723421	1884	3	1	10	head	cáwaavye
+1723422	1884	3	12	21	head	cáhwabya
+1723423	1884	3	23	26	pos	vt.
+1723424	1884	3	27	92	translation	hacer trampa dahpénéého de hojas de palma para aves terrestres
+1723425	1884	3	94	133	example-src	Tahdíú cáwaavyé íúmɨhé úníutu.
+1723426	1884	3	133	187	example-tgt	 Mi abuelo hizo trampa para aves al lado de su chacra.
+1723427	1884	4	1	10	headorthographic	# c á . w aa . vy e #
+1723428	1884	4	12	21	headorthographic	# c á h . w a . by a #
+1723429	1884	1	0	22	bold	[cáwaavye, cáhwabya]
+1723430	1884	1	23	26	italic	vt.
+1723431	1884	1	40	53	italic	dahpénéého
+1723432	1884	1	94	113	italic	Tahdíú cáwaavyé
+1723433	1884	1	114	133	italic	íúmɨhé úníutu.
+1723434	1884	2	0	0	tab	""
+1723435	1884	2	0	0	tab	""
+1723436	1884	2	32	32	newline	""
+1723437	1884	2	33	33	tab	""
+1723438	1884	2	71	71	newline	""
+1723439	1884	2	72	72	tab	""
+1723440	1884	2	113	113	newline	""
+1723441	1884	2	114	114	tab	""
+1723442	1884	2	155	155	newline	""
+1723443	1884	2	156	156	tab	""
+1723455	2058	3	0	13	head	cówáhomája
+1723456	2058	3	14	70	translation	fibra del árbol áácuhe que sirve para hacer antorchas
+1723457	2058	4	0	13	headorthographic	# c ó . w á . h o . m á . j a #
+1723458	2058	1	0	13	bold	cówáhomája
+1723459	2058	1	31	39	italic	áácuhe
+1723460	2058	2	0	0	tab	""
+1723461	2058	2	0	0	tab	""
+1723462	2058	2	39	39	newline	""
+1723463	2058	2	40	40	tab	""
+1	1	1	0	3	bold	aá
+2	1	1	4	8	italic	abs.
+69564	1	3	0	3	head	aá
+69565	1	3	4	8	pos	abs.
+69566	1	3	8	28	translation	relaciones sexuales
+3	2	2	0	0	tab	""
+4	2	2	0	0	tab	""
+5	2	1	0	4	bold	[aa]
+6	2	1	5	8	italic	vt.
+7	2	2	35	35	newline	""
+8	2	2	36	36	tab	""
+9	2	1	45	53	bold	domájco
+69567	2	3	1	3	head	aa
+69568	2	3	5	8	pos	vt.
+69569	2	3	8	34	translation	tener relaciones sexuales
+10	3	1	0	7	bold	áa/[a]
+11	3	1	8	13	italic	part.
+12	3	1	32	43	italic	¿A ú péju
+13	3	2	43	43	hyphen	""
+14	3	2	43	43	newline	""
+15	3	2	43	43	tab	""
+16	3	1	43	49	italic	cóó?
+69570	3	3	0	3	head	áa
+69571	3	3	5	6	head	a
+69572	3	3	8	13	pos	part.
+69573	3	3	13	30	translation	expresa pregunta
+69574	3	3	32	49	example-src	¿A ú péjucóó?
+69575	3	3	49	58	example-tgt	 ¿Te vas?
+17	4	2	0	0	tab	""
+18	4	2	0	0	tab	""
+19	4	1	0	3	bold	aca
+20	4	1	17	32	italic	¿Aca ú peéhi?
+21	4	2	37	37	hyphen	""
+22	4	2	37	37	newline	""
+23	4	2	37	37	tab	""
+69576	4	3	0	3	head	aca
+69577	4	3	3	15	translation	indica duda
+69578	4	3	17	32	example-src	¿Aca ú peéhi?
+69579	4	3	32	47	example-tgt	 ¿Acaso te vas?
+24	5	2	0	0	tab	""
+25	5	2	0	0	tab	""
+26	5	1	0	3	bold	ava
+27	5	2	31	31	hyphen	""
+28	5	2	31	31	newline	""
+29	5	2	31	31	tab	""
+30	5	1	38	53	italic	¿Ava ú peéhi?
+31	5	2	69	69	newline	""
+32	5	2	70	70	tab	""
+69580	5	3	0	3	head	ava
+69581	5	3	3	36	translation	indica pregunta de confirmación
+69582	5	3	38	53	example-src	¿Ava ú peéhi?
+69583	5	3	53	86	example-tgt	 ¿Ya te vas como alguien me dijo?
+33	6	1	0	13	bold	aáaá-aáaá
+34	6	1	14	19	italic	onom.
+35	6	2	41	41	hyphen	""
+36	6	2	41	41	newline	""
+37	6	2	41	41	tab	""
+38	6	1	46	52	italic	nohco.
+69584	6	3	0	13	head	aáaá-aáaá
+69585	6	3	14	19	pos	onom.
+69586	6	3	19	46	translation	canto de la garza llamada
+39	7	1	0	8	bold	[aa-/a-]
+40	7	1	9	13	italic	r.l.
+41	7	2	41	41	newline	""
+42	7	2	42	42	tab	""
+43	7	2	85	85	newline	""
+44	7	2	86	86	tab	""
+45	7	2	131	131	hyphen	""
+46	7	2	131	131	newline	""
+47	7	2	131	131	tab	""
+48	7	2	176	176	newline	""
+49	7	2	177	177	tab	""
+69587	7	3	1	4	head	aa-
+69588	7	3	5	7	head	a-
+69589	7	3	9	13	pos	r.l.
+69590	7	3	13	179	translation	ése (algo mencionado en la oración anterior). –se añaden los sufijos clasificadores para formar conjunciones pronominales y adverbiales (ver los apéndices c y d)
+50	8	1	0	4	bold	aaba
+51	8	1	5	15	italic	conj.pron.
+52	8	2	42	42	hyphen	""
+53	8	2	42	42	newline	""
+54	8	2	42	42	tab	""
+55	8	2	81	81	hyphen	""
+56	8	2	81	81	newline	""
+57	8	2	81	81	tab	""
+58	8	1	90	120	italic	Téhulle nújpacyo páábáwu.
+59	8	2	120	120	newline	""
+60	8	2	121	121	tab	""
+61	8	1	121	147	italic	Áábá hallúrí nújuwa.
+62	8	2	163	163	hyphen	""
+63	8	2	163	163	newline	""
+64	8	2	163	163	tab	""
+65	8	2	201	201	newline	""
+66	8	2	202	202	tab	""
+69591	8	3	0	4	head	aaba
+69592	8	3	5	15	pos	conj.pron.
+69593	8	3	15	88	translation	ése (naranja, tronco, tambito, etc. mencionado en la oración anterior)
+69594	8	3	90	147	example-src	Téhulle nújpacyo páábáwu. Áábá hallúrí nújuwa.
+69595	8	3	147	217	example-tgt	 Allá hay un estanque de agua. En la orilla del mismo hay un tambito.
+67	9	1	0	5	bold	aába
+68	9	1	6	10	italic	abs.
+69596	9	3	0	5	head	aába
+69597	9	3	6	10	pos	abs.
+69	10	2	0	0	tab	""
+70	10	2	0	0	tab	""
+71	10	1	0	6	bold	[aaba]
+72	10	1	7	10	italic	ve.
+73	10	2	38	38	newline	""
+74	10	2	39	39	tab	""
+75	10	1	39	54	italic	Tajkye aabáhi.
+76	10	2	78	78	hyphen	""
+77	10	2	78	78	newline	""
+78	10	2	78	78	tab	""
+79	10	1	96	117	italic	Tácuujúwá aabáhi.
+80	10	2	117	117	newline	""
+81	10	2	118	118	tab	""
+69598	10	3	1	5	head	aaba
+69599	10	3	7	10	pos	ve.
+69600	10	3	13	37	translation	ser débil o baja (voz)
+69601	10	3	75	94	translation	arder poco (fuego)
+69602	10	3	39	54	example-src	Tajkye aabáhi.
+69603	10	3	54	73	example-tgt	 Mi voz es débil. 
+69604	10	3	96	117	example-src	Tácuujúwá aabáhi.
+69605	10	3	117	143	example-tgt	 Mi candela arde muy poco.
+82	11	2	0	0	tab	""
+83	11	2	0	0	tab	""
+84	11	1	0	10	bold	[ábá(h)]
+85	11	1	11	15	italic	adj.
+86	11	1	36	41	italic	Ábá
+87	11	2	41	41	newline	""
+88	11	2	42	42	tab	""
+89	11	1	42	52	italic	díjkyeé.
+69606	11	3	1	6	head	ábá
+69607	11	3	1	9	head	ábáh
+69608	11	3	11	15	pos	adj.
+69609	11	3	15	22	translation	débil
+69610	11	3	24	34	translation	baja (voz)
+69611	11	3	36	52	example-src	Ábá díjkyeé.
+69612	11	3	52	70	example-tgt	 Tu voz es débil.
+90	12	2	0	0	tab	""
+91	12	2	0	0	tab	""
+92	12	1	0	10	bold	[ábá(h)]
+93	12	1	11	15	italic	adv.
+94	12	2	34	34	hyphen	""
+95	12	2	34	34	newline	""
+96	12	2	34	34	tab	""
+97	12	1	54	74	italic	Ábá ó májtsivá.
+98	12	2	74	74	newline	""
+99	12	2	75	75	tab	""
+69613	12	3	1	6	head	ábá
+69614	12	3	1	9	head	ábáh
+69615	12	3	11	15	pos	adv.
+69616	12	3	15	27	translation	débilmente
+69617	12	3	29	39	translation	suavemente
+69618	12	3	41	52	translation	en voz baja
+69619	12	3	54	74	example-src	Ábá ó májtsivá.
+69620	12	3	74	95	example-tgt	 Yo canto suavemente.
+100	13	1	0	8	bold	ábaába
+101	13	1	9	15	italic	s.col.
+102	13	2	40	40	hyphen	""
+103	13	2	40	40	newline	""
+104	13	2	40	40	tab	""
+69621	13	3	0	8	head	ábaába
+69622	13	3	9	15	pos	s.col.
+69623	13	3	15	70	translation	especie de palmera de hojas finas como las del helecho
+105	14	2	0	0	tab	""
+106	14	2	0	0	tab	""
+107	14	1	0	15	bold	ábáábaííba
+69624	14	3	0	15	head	ábáábaííba
+69625	14	3	15	27	translation	una palmera
+108	15	1	0	23	bold	ábáábeé/[ábáábe]
+109	15	1	24	26	italic	s.
+110	15	2	44	44	hyphen	""
+111	15	2	44	44	newline	""
+112	15	2	44	44	tab	""
+113	15	1	54	60	bold	baábe
+69626	15	3	0	11	head	ábáábeé
+69627	15	3	13	22	head	ábáábe
+69628	15	3	24	26	pos	s.
+69629	15	3	26	36	translation	mi suegro
+69630	15	3	38	47	translation	mi suegra
+114	16	1	0	7	bold	aabája
+115	16	1	8	12	italic	abs.
+116	16	2	38	38	newline	""
+117	16	2	39	39	tab	""
+69631	16	3	0	7	head	aabája
+69632	16	3	8	12	pos	abs.
+69633	16	3	12	26	translation	cosa poseída
+69634	16	3	28	37	translation	posesión
+118	17	2	0	0	tab	""
+119	17	2	0	0	tab	""
+120	17	1	0	11	bold	[áábajaa]
+121	17	1	12	15	italic	vt.
+122	17	2	39	39	newline	""
+123	17	2	40	40	tab	""
+124	17	1	52	81	italic	Áánu áábajáá oohííbye
+125	17	2	81	81	hyphen	""
+126	17	2	81	81	newline	""
+127	17	2	81	81	tab	""
+128	17	1	81	84	italic	ke.
+69635	17	3	1	10	head	áábajaa
+69636	17	3	12	15	pos	vt.
+69637	17	3	15	26	translation	adueñarse
+69638	17	3	28	38	translation	apropiarse
+69639	17	3	40	50	translation	apoderarse
+69640	17	3	52	84	example-src	Áánu áábajáá oohííbyeke.
+69641	17	3	84	113	example-tgt	 Este se adueña de un perro.
+129	18	1	0	39	bold	aabájaábe, aabájajtétsi, aabájajte
+130	18	1	40	42	italic	s.
+131	18	2	42	42	newline	""
+132	18	2	43	43	tab	""
+69642	18	3	0	11	head	aabájaábe
+69643	18	3	13	27	head	aabájajtétsi
+69644	18	3	29	39	head	aabájajte
+69645	18	3	40	42	pos	s.
+69646	18	3	42	49	translation	dueño
+69647	18	3	51	54	translation	amo
+133	19	1	0	11	bold	ábajájtso
+134	19	1	12	16	italic	abs.
+135	19	2	42	42	newline	""
+136	19	2	43	43	tab	""
+137	19	1	62	85	italic	Téi̵i̵búwa, ijcyáné
+138	19	2	85	85	newline	""
+139	19	2	86	86	tab	""
+140	19	1	86	115	italic	mééma ícyooca ábajájtso.
+141	19	2	124	124	newline	""
+142	19	2	125	125	tab	""
+143	19	2	160	160	newline	""
+144	19	2	161	161	tab	""
+69648	19	3	0	11	head	ábajájtso
+69649	19	3	12	16	pos	abs.
+69650	19	3	19	31	translation	expectativa
+69651	19	3	33	60	translation	espera de algo desagradable
+69652	19	3	151	159	translation	reserva
+69653	19	3	62	115	example-src	Téi̵i̵búwa, ijcyáné mééma ícyooca ábajájtso.
+69654	19	3	115	149	example-tgt	 Cuidado, nos aguarda un peligro. 
+145	20	2	0	0	tab	""
+146	20	2	0	0	tab	""
+147	20	1	0	13	bold	[ábájajtso]
+148	20	1	14	17	italic	vt.
+149	20	2	38	38	newline	""
+150	20	2	39	39	tab	""
+151	20	2	75	75	hyphen	""
+152	20	2	75	75	newline	""
+153	20	2	75	75	tab	""
+154	20	1	106	117	italic	Ícyooca ó
+155	20	2	117	117	newline	""
+156	20	2	118	118	tab	""
+157	20	1	118	164	italic	ábájajtsó téhicyáájá o úmi̵hénuíñe.
+158	20	2	164	164	newline	""
+159	20	2	165	165	tab	""
+160	20	2	202	202	newline	""
+161	20	2	203	203	tab	""
+69655	20	3	1	12	head	ábájajtso
+69656	20	3	14	17	pos	vt.
+69657	20	3	20	29	translation	aguardar
+69658	20	3	31	56	translation	esperar algo desagradable
+69659	20	3	60	69	translation	reservar
+69660	20	3	71	81	translation	adueñarse
+69661	20	3	83	104	translation	tratar de lograr algo
+69662	20	3	106	164	example-src	Ícyooca ó ábájajtsó téhicyáájá o úmi̵hénuíñe.
+69663	20	3	164	213	example-tgt	 Estoy reservando el bajial para hacer mi chacra.
+162	21	1	0	38	bold	aabájalle, aabájajtépi̵, aabájajte
+163	21	1	39	41	italic	s.
+164	21	2	41	41	newline	""
+165	21	2	42	42	tab	""
+69664	21	3	0	10	head	aabájalle
+69665	21	3	12	26	head	aabájajtépi̵
+69666	21	3	28	38	head	aabájajte
+69667	21	3	39	41	pos	s.
+69668	21	3	41	48	translation	dueña
+166	22	1	0	11	bold	ábají̵hco
+167	22	1	12	16	italic	abs.
+69669	22	3	0	11	head	ábají̵hco
+69670	22	3	12	16	pos	abs.
+168	23	2	0	0	tab	""
+169	23	2	0	0	tab	""
+170	23	1	0	13	bold	[ábáji̵hco]
+171	23	1	14	17	italic	ve.
+172	23	2	41	41	hyphen	""
+173	23	2	41	41	newline	""
+174	23	2	41	41	tab	""
+69671	23	3	1	12	head	ábáji̵hco
+69672	23	3	14	17	pos	ve.
+69673	23	3	17	32	translation	ser olvidadizo
+69674	23	3	34	48	translation	ser descuidado
+175	24	2	0	0	tab	""
+176	24	2	0	0	tab	""
+177	24	1	0	18	bold	[ábájí̵hcó(h)]
+178	24	1	19	23	italic	adj.
+179	24	2	39	39	hyphen	""
+180	24	2	39	39	newline	""
+181	24	2	39	39	tab	""
+69675	24	3	1	14	head	ábájí̵hcó
+69676	24	3	1	17	head	ábájí̵hcóh
+69677	24	3	19	23	pos	adj.
+69678	24	3	23	34	translation	olvidadizo
+69679	24	3	36	46	translation	descuidado
+182	25	1	0	13	bold	abáji̵hnécu
+183	25	1	14	18	italic	adv.
+184	25	2	39	39	hyphen	""
+185	25	2	39	39	newline	""
+186	25	2	39	39	tab	""
+187	25	1	46	77	italic	Táñaalle óhdivu bóhówaavé
+188	25	2	77	77	newline	""
+189	25	2	78	78	tab	""
+190	25	1	78	116	italic	tákimóóveháñé oke abáji̵hnécu.
+191	25	2	119	119	newline	""
+192	25	2	120	120	tab	""
+193	25	2	158	158	newline	""
+194	25	2	159	159	tab	""
+69680	25	3	0	13	head	abáji̵hnécu
+69681	25	3	14	18	pos	adv.
+69682	25	3	18	44	translation	olvidar instantáneamente
+69683	25	3	46	116	example-src	Táñaalle óhdivu bóhówaavé tákimóóveháñé oke abáji̵hnécu.
+69684	25	3	116	180	example-tgt	 Mi hermana apareció y me hizo olvidar al instante la tristeza.
+195	26	1	0	14	bold	ábáji̵néjcu
+196	26	1	15	19	italic	abs.
+69685	26	3	0	14	head	ábáji̵néjcu
+69686	26	3	15	19	pos	abs.
+69687	26	3	19	28	translation	sorpresa
+197	27	2	0	0	tab	""
+198	27	2	0	0	tab	""
+199	27	1	0	16	bold	[ábájí̵nejcu]
+200	27	1	17	20	italic	vt.
+201	27	1	33	39	italic	Áánu
+202	27	2	39	39	newline	""
+203	27	2	40	40	tab	""
+204	27	1	40	83	italic	oke ábájí̵nejcú o májchóné hallúri.
+205	27	2	86	86	newline	""
+206	27	2	87	87	tab	""
+69688	27	3	1	15	head	ábájí̵nejcu
+69689	27	3	17	20	pos	vt.
+69690	27	3	20	31	translation	sorprender
+69691	27	3	33	83	example-src	Áánu oke ábájí̵nejcú o májchóné hallúri.
+69692	27	3	83	118	example-tgt	 El me sorprendió mientras comía.
+207	28	1	0	31	bold	ábáji̵úcunu, ábáji̵jcátye
+208	28	1	32	36	italic	abs.
+69693	28	3	0	14	head	ábáji̵úcunu
+69694	28	3	16	31	head	ábáji̵jcátye
+69695	28	3	32	36	pos	abs.
+209	29	2	0	0	tab	""
+210	29	2	0	0	tab	""
+211	29	1	0	35	bold	[ábáji̵úcu̱nu, ábájí̵jca̱tye]
+212	29	1	36	39	italic	ve.
+213	29	2	44	44	hyphen	""
+214	29	2	44	44	newline	""
+215	29	2	44	44	tab	""
+216	29	1	61	86	italic	Tsahdíñé tsiiñe cáá
+217	29	2	86	86	hyphen	""
+218	29	2	86	86	newline	""
+219	29	2	86	86	tab	""
+220	29	1	86	133	italic	yóbama; ói ó ábáji̵úcunú ímityúné oke
+221	29	2	133	133	newline	""
+222	29	2	134	134	pagebreak	""
+223	29	2	134	134	tab	""
+224	29	1	134	146	italic	u nééneé.
+225	29	2	174	174	newline	""
+226	29	2	175	175	tab	""
+227	29	2	210	210	newline	""
+228	29	2	211	211	tab	""
+69696	29	3	1	16	head	ábáji̵úcu̱nu
+69697	29	3	18	34	head	ábájí̵jca̱tye
+69698	29	3	36	39	pos	ve.
+69699	29	3	39	59	translation	olvidar por un rato
+69700	29	3	61	146	example-src	Tsahdíñé tsiiñe cááyóbama; ói ó ábáji̵úcunú ímityúné oke u nééneé.
+69701	29	3	146	219	example-tgt	 No vengas con cólera; deja que me olvide por un rato lo que me dijiste.
+229	30	1	0	13	bold	ábají̵í̵ve
+230	30	1	14	18	italic	abs.
+69702	30	3	0	13	head	ábají̵í̵ve
+69703	30	3	14	18	pos	abs.
+69704	30	3	18	25	translation	olvido
+251	31	2	203	203	tab	""
+231	31	2	0	0	tab	""
+232	31	2	0	0	tab	""
+233	31	1	0	14	bold	[ábáji̵i̵ve]
+234	31	1	15	18	italic	vt.
+235	31	1	28	47	italic	Ó ábáji̵i̵vé di
+236	31	2	47	47	hyphen	""
+237	31	2	47	47	newline	""
+238	31	2	47	47	tab	""
+239	31	1	47	77	italic	myéme; oke tsiiñe duubálle.
+240	31	2	88	88	newline	""
+241	31	2	89	89	tab	""
+242	31	1	115	126	italic	Muha méáh
+243	31	2	126	126	hyphen	""
+244	31	2	126	126	newline	""
+245	31	2	126	126	tab	""
+246	31	1	126	165	italic	báji̵bá Méécáání uwááboháñe.
+247	31	2	170	170	hyphen	""
+248	31	2	170	170	newline	""
+249	31	2	170	170	tab	""
+250	31	2	202	202	newline	""
+69705	31	3	1	13	head	ábáji̵i̵ve
+69706	31	3	15	18	pos	vt.
+69707	31	3	18	26	translation	olvidar
+69708	31	3	28	77	example-src	Ó ábáji̵i̵vé dimyéme; oke tsiiñe duubálle.
+69709	31	3	77	115	example-tgt	 Olvidé tu nombre; dímelo otra vez. 
+69710	31	3	115	165	example-src	Muha méáhbáji̵bá Méécáání uwááboháñe.
+69711	31	3	165	208	example-tgt	 Estamos olvidando las enseñanzas de Dios.
+252	32	1	0	31	bold	ábáji̵vétso, áhbáji̵bátso
+253	32	1	32	36	italic	abs.
+69712	32	3	0	14	head	ábáji̵vétso
+69713	32	3	16	31	head	áhbáji̵bátso
+69714	32	3	32	36	pos	abs.
+254	33	2	0	0	tab	""
+255	33	2	0	0	tab	""
+256	33	1	0	33	bold	[ábájí̵vetso, áhbáji̵bátso]
+257	33	1	34	37	italic	vt.
+258	33	2	43	43	newline	""
+259	33	2	44	44	tab	""
+260	33	1	53	87	italic	Aahí̵ve-múnaa uke ábájí̵í̵ve
+261	33	2	87	87	hyphen	""
+262	33	2	87	87	newline	""
+263	33	2	87	87	tab	""
+264	33	1	87	111	italic	tsó u gúnújcúiyóne.
+265	33	2	129	129	hyphen	""
+266	33	2	129	129	newline	""
+267	33	2	129	129	tab	""
+268	33	2	164	164	newline	""
+269	33	2	165	165	tab	""
+69715	33	3	1	15	head	ábájí̵vetso
+69716	33	3	17	32	head	áhbáji̵bátso
+69717	33	3	34	37	pos	vt.
+69718	33	3	37	51	translation	hacer olvidar
+69719	33	3	53	111	example-src	Aahí̵ve-múnaa uke ábájí̵í̵vetsó u gúnújcúiyóne.
+69720	33	3	111	173	example-tgt	 Los visitantes hicieron que te olvidaras de preparar cahuana.
+270	34	1	0	9	bold	áábajke
+271	34	1	10	12	italic	s.
+69721	34	3	0	9	head	áábajke
+69722	34	3	10	12	pos	s.
+69723	34	3	12	30	translation	voz baja o débil
+272	35	1	0	8	bold	aabájke
+273	35	1	9	13	italic	abs.
+69724	35	3	0	8	head	aabájke
+69725	35	3	9	13	pos	abs.
+274	36	2	0	0	tab	""
+275	36	2	0	0	tab	""
+276	36	1	0	10	bold	[aabájke]
+277	36	1	11	14	italic	ve.
+278	36	2	39	39	newline	""
+279	36	2	40	40	tab	""
+280	36	1	40	55	italic	Ó aabájkéhi.
+69726	36	3	1	9	head	aabájke
+69727	36	3	11	14	pos	ve.
+69728	36	3	14	38	translation	tener voz baja o débil
+69729	36	3	40	55	example-src	Ó aabájkéhi.
+69730	36	3	55	77	example-tgt	 Tengo una voz débil.
+281	37	2	0	0	tab	""
+282	37	2	0	0	tab	""
+283	37	1	0	14	bold	[ábájké(h)]
+284	37	1	15	19	italic	adj.
+285	37	2	40	40	newline	""
+286	37	2	41	41	tab	""
+287	37	1	48	62	italic	Ábájké oó.
+288	37	2	80	80	hyphen	""
+289	37	2	80	80	newline	""
+290	37	2	80	80	tab	""
+69731	37	3	1	10	head	ábájké
+69732	37	3	1	13	head	ábájkéh
+69733	37	3	15	19	pos	adj.
+69734	37	3	19	26	translation	débil
+69735	37	3	28	46	translation	poco potente (voz)
+69736	37	3	48	62	example-src	Ábájké oó.
+69737	37	3	62	84	example-tgt	 Tengo una voz débil.
+291	38	1	0	13	bold	ábamíí̵lle
+292	38	1	14	20	italic	s.col.
+69738	38	3	0	13	head	ábamíí̵lle
+69739	38	3	14	20	pos	s.col.
+69740	38	3	20	37	translation	especie de abeja
+293	39	2	0	0	tab	""
+294	39	2	0	0	tab	""
+295	39	1	0	14	bold	ábamíílleba
+69741	39	3	0	14	head	ábamíílleba
+69742	39	3	14	24	translation	una abeja
+296	40	1	0	7	bold	aabánu
+297	40	1	8	12	italic	abs.
+298	40	2	39	39	newline	""
+299	40	2	40	40	tab	""
+69743	40	3	0	7	head	aabánu
+69744	40	3	8	12	pos	abs.
+69745	40	3	12	28	translation	descoloramiento
+69746	40	3	30	38	translation	opacidad
+335	42	1	0	12	bold	áábanútso
+336	42	1	13	17	italic	abs.
+337	42	2	39	39	hyphen	""
+338	42	2	39	39	newline	""
+339	42	2	39	39	tab	""
+69762	42	3	0	12	head	áábanútso
+69763	42	3	13	17	pos	abs.
+69764	42	3	17	33	translation	descoloramiento
+340	43	2	0	0	tab	""
+341	43	2	0	0	tab	""
+342	43	1	0	14	bold	[áábanútso]
+343	43	1	15	18	italic	vt.
+344	43	1	31	37	italic	Áánu
+345	43	2	37	37	newline	""
+346	43	2	38	38	pagebreak	""
+347	43	2	38	38	tab	""
+348	43	1	38	83	italic	áábanútsó íwajyámú oonóvá iñíjtyú
+349	43	2	83	83	hyphen	""
+350	43	2	83	83	newline	""
+351	43	2	83	83	tab	""
+352	43	1	83	88	italic	neri.
+353	43	2	121	121	newline	""
+354	43	2	122	122	tab	""
+69765	43	3	1	13	head	áábanútso
+69766	43	3	15	18	pos	vt.
+69767	43	3	18	29	translation	descolorar
+69768	43	3	31	88	example-src	Áánu áábanútsó íwajyámú oonóvá iñíjtyúneri.
+69769	43	3	88	133	example-tgt	 El descolora el tinte de su ropa lavándola.
+355	44	1	0	7	bold	aabáte
+356	44	1	8	12	italic	abs.
+69770	44	3	0	7	head	aabáte
+69771	44	3	8	12	pos	abs.
+69772	44	3	12	24	translation	apagamiento
+357	45	2	0	0	tab	""
+358	45	2	0	0	tab	""
+359	45	1	0	11	bold	[áába̱te]
+360	45	1	12	15	italic	vi.
+361	45	2	41	41	newline	""
+362	45	2	42	42	tab	""
+363	45	1	58	84	italic	Tácyujúwá tsúúca áá
+364	45	2	84	84	hyphen	""
+365	45	2	84	84	newline	""
+366	45	2	84	84	tab	""
+367	45	1	84	97	italic	batéjucóó.
+368	45	2	122	122	newline	""
+369	45	2	123	123	tab	""
+370	45	2	162	162	newline	""
+371	45	2	163	163	tab	""
+372	45	1	163	205	italic	Tsúúca áánu méhdivu áábatéjucóó.
+373	45	2	205	205	newline	""
+374	45	2	206	206	tab	""
+69773	45	3	1	10	head	áába̱te
+69774	45	3	12	15	pos	vi.
+69775	45	3	18	56	translation	apagarse (el fuego, la luz, el motor)
+69776	45	3	125	144	translation	ocultarse (el sol)
+69777	45	3	155	161	translation	morir
+69778	45	3	58	97	example-src	Tácyujúwá tsúúca áábatéjucóó.
+69779	45	3	97	123	example-tgt	 Mi candela ya se apagó. 
+69780	45	3	163	205	example-src	Tsúúca áánu méhdivu áábatéjucóó.
+69781	45	3	205	219	example-tgt	 El ya murió.

@@ -1,0 +1,57 @@
+id	startpage	endpage	startletters	book_id	component_id
+18	19	65	"[u""'"", u'a', u'b', u'c', u'e', u'i', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'x']"	14	3
+19	69	105	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	14	3
+1	25	339	[u'-', u'a', u'b', u'c', u'd', u'e', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'r', u't', u'u', u'v', u'w', u'y']	1	1
+33	336	377	[]	25	1
+2	1	126	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u't', u'u', u'v', u'z']	2	1
+20	115	132	[u'(', u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v']	15	3
+3	3	74	[u'a', u'b', u'c', u'd', u'e', u'g', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u't', u'u', u'v']	3	1
+48	8	158	[]	40	2
+4	19	262	[u'(', u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'\xbf']	4	1
+44	45	310		36	3
+5	67	161	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'r', u's', u't', u'u', u'v', u'x']	5	1
+34	7	28	[u' ', u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	26	3
+6	9	120	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y']	6	1
+21	85	432	[u'-', u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'y', u'\u2013', u'\u2039']	16	3
+22	439	537	[u'-', u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	16	3
+7	797	912	[u' ', u'a', u'b', u'd', u'e', u'f', u'g', u'i', u'j', u'k', u'm', u'n', u'o', u'r', u't', u'u', u'v', u'y', u'z', u'{']	7	1
+40	13	116	[]	32	6
+35	7	97		27	6
+23	205	245	[u'a', u'b', u'c', u'd', u'e', u'i', u'm', u'n', u'o', u'p', u'q', u's', u't', u'u']	17	3
+8	85	344	[u'-', u'a', u'b', u'c', u'e', u'i', u'j', u'k', u'm', u'n', u'p', u'r', u's', u't', u'u', u'w', u'y']	8	2
+9	347	517	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	8	2
+10	1	90	[u'a', u'b', u'c', u'd', u'e', u'i', u'j', u'k', u'm', u'n', u'p', u's', u't', u'u', u'w', u'y']	9	2
+11	107	199	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	9	2
+36	9	69	[u'a', u'b', u'c', u'd', u'e', u'g', u'i', u'm', u'n', u'o', u'p', u'q', u's', u't', u'u', u'w', u'y', u'\u0289']	28	6
+24	13	422	[u'-', u'a', u'b', u'c', u'd', u'e', u'i', u'j', u'k', u'l', u'm', u'n', u'p', u's', u't', u'u', u'v', u'x', u'y', u'\u2013']	18	3
+25	425	548	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	18	3
+12	15	125	[u'a', u'c', u'e', u'i', u'j', u'k', u'm', u'n', u'p', u'r', u's', u't', u'u', u'w', u'y']	10	2
+13	129	221	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	10	2
+14	112	495	[u'(', u'.', u'a', u'c', u'e', u'i', u'j', u'k', u'm', u'n', u'p', u'r', u's', u't', u'u', u'w', u'y', u'\u21e8']	11	2
+41	13	107	[]	33	6
+37	13	337	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'i', u'j', u'm', u'n', u'o', u'p', u'q', u's', u't', u'u', u'v', u'w', u'y', u'\u0289']	29	6
+15	19	150	[u'a', u'b', u'c', u'd', u'e', u'f', u'i', u'j', u'k', u'm', u'n', u'p', u's', u't', u'u', u'w', u'y']	12	2
+16	159	292	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z', u'\xa1', u'\xbf']	12	2
+26	17	108	[u'c', u'h', u'i', u'j', u'l', u'm', u'n', u'p', u'q', u'r', u's', u't', u'v', u'x', u'y', u'z']	19	3
+27	113	135	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'z']	19	3
+17	329	369	[u'a', u'e', u'h', u'i', u'k', u'm', u'n', u'p', u'r', u's', u't', u'u', u'v', u'w', u'x', u'y']	13	3
+47	1	41	[]	39	3
+38	19	328	[u'a', u'b', u'c', u'd', u'e', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u's', u't', u'u', u'v', u'y', u'\u0289']	30	6
+28	30	57	[u'a', u'c', u'i', u'j', u'k', u'm', u'n', u'p', u'r', u's', u't', u'u']	20	4
+45	63	403	[]	37	3
+29	3	145	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y']	21	6
+42	1	93	[]	34	6
+30	1	125		22	6
+39	29	128	[u'a', u'b', u'c', u'd', u'e', u'f', u'g', u'h', u'i', u'j', u'k', u'l', u'm', u'n', u'o', u'p', u'q', u'r', u's', u't', u'u', u'v', u'y', u'\u0289']	31	6
+31	11	97		23	6
+32	242	266	[u'-', u'a', u'h', u'i', u'k', u'm', u'n', u'p', u's', u't', u'u', u'\xdf', u'\u0131', u'\u023f', u'\u0283', u'\u03b2']	24	3
+43	115	193	[]	35	3
+49	79	199	[]	41	1
+46	1	78	[u'a', u'b', u'c', u'd', u'e', u'i', u'j', u'k', u'm', u'n', u'p', u's', u't', u'u', u'w', u'y', u'\u2013', u'\u2014']	38	2
+50	1	1		44	5
+51	1	1		45	5
+52	1	1		46	5
+53	1	1		47	5
+54	1	1		48	5
+55	1	1		49	5
+56	1	1		50	5

@@ -1,0 +1,343 @@
+id	entry_id	annotationtype_id	start	end	value	string
+1	1	3	0	9	counterpart	íinanee
+2	1	3	0	9	language_sourcename	achagua
+3	1	3	0	9	language	Achagua
+4	2	3	0	8	counterpart	póʔtaʃ
+5	2	3	0	8	language_sourcename	yukpa
+6	2	3	0	8	language	Yukpa
+7	3	3	0	9	counterpart	kongi̵ra
+8	3	3	0	9	language_sourcename	dí̵mɨna
+9	3	3	0	9	language	Malayo
+10	4	3	0	10	counterpart	kʰĩrã́me
+11	4	3	0	10	language_sourcename	epena basurudó
+12	4	3	0	10	language	""
+13	5	3	0	12	counterpart	jẽ́bẽ́ro
+14	5	3	0	12	language_sourcename	waimaja
+15	5	3	0	12	language	Waimaha
+16	6	3	0	8	counterpart	pébrat
+17	6	3	0	8	language_sourcename	jitnu
+18	6	3	0	8	language	Macaguán
+19	7	3	0	12	counterpart	jãʔbãdõ
+20	7	3	0	12	language_sourcename	wanano
+21	7	3	0	12	language	Guanano
+22	8	3	0	9	counterpart	meukʰĩir
+23	8	3	0	9	language_sourcename	wounaan
+24	8	3	0	9	language	Woun Meu
+25	8	2	9	9	newline	""
+26	8	2	10	64	footnote	Acento no se ha indicado (stress has not been marked).
+27	9	3	0	6	counterpart	kálʲu
+28	9	3	0	6	language_sourcename	inga
+29	9	3	0	6	language	Inga
+30	10	3	0	6	counterpart	lengua
+31	10	3	0	6	language_sourcename	Español
+32	10	3	0	6	language	Spanish
+33	11	3	0	7	counterpart	kobi̵nə
+34	11	3	0	7	language_sourcename	barí
+35	11	3	0	7	language	Barí
+36	12	3	0	10	counterpart	peébato
+37	12	3	0	10	language_sourcename	cuiba
+38	12	3	0	10	language	Cuiba
+39	13	3	0	9	counterpart	jẽbẽro
+40	13	3	0	9	language_sourcename	bará
+41	13	3	0	9	language	Waimaha
+42	14	3	0	11	counterpart	jẽbẽ́rõ
+43	14	3	0	11	language_sourcename	barasana
+44	14	3	0	11	language	Barasana-Eduria
+45	15	3	0	8	counterpart	ʤemeɲo
+46	15	3	0	8	language_sourcename	koreguaje
+47	15	3	0	8	language	Koreguaje
+48	17	3	0	12	counterpart	jẽ́bẽrõ
+49	17	3	0	12	language_sourcename	yurutí
+50	17	3	0	12	language	Wajiara
+51	18	3	0	10	counterpart	kʰĩrã́me
+52	18	3	0	10	language_sourcename	embera Darién
+53	18	3	0	10	language	Emberá, Northern
+54	18	2	11	11	newline	""
+55	18	2	12	24	footnote	+ kʰẽrã́me
+56	18	3	14	24	counterpart	kʰẽrã́me
+57	18	3	14	24	language_sourcename	embera Darién
+58	18	3	14	24	language	Emberá, Northern
+62	20	3	25	35	counterpart	ueninéne
+63	20	3	25	35	language_sourcename	giacone
+64	20	3	25	35	language	""
+65	20	3	37	45	counterpart	uecnená
+66	20	3	37	45	language_sourcename	giacone
+67	20	3	37	45	language	""
+68	20	2	15	15	newline	""
+69	20	2	16	45	footnote	Giacone: ue-ninéne; uecnená
+70	21	3	0	8	counterpart	néxeba
+71	21	3	0	8	language_sourcename	muinane
+72	21	3	0	8	language	Muinane
+73	22	3	0	8	counterpart	wanène
+74	22	3	0	8	language_sourcename	piapoco
+75	22	3	0	8	language	Piapoco
+76	23	3	0	6	counterpart	ni̵ik²
+77	23	3	0	6	language_sourcename	nukak
+78	23	3	0	6	language	Nukak Makú
+79	24	3	0	13	counterpart	rẽrõkaʔka
+80	24	3	0	13	language_sourcename	tanimuca
+81	24	3	0	13	language	Tanimuca-Retuarã
+82	25	3	0	10	counterpart	eʔhéepé
+83	25	3	0	10	language_sourcename	resígaro
+84	25	3	0	10	language	Resígaro
+85	26	3	0	11	counterpart	jẽʔbẽdõ
+86	26	3	0	11	language_sourcename	piratapuyo
+87	26	3	0	11	language	Piratapuyo
+88	27	3	0	6	counterpart	nili̵
+89	27	3	0	6	language_sourcename	totoró
+90	27	3	0	6	language	Totoro
+91	27	2	7	7	newline	""
+92	27	2	8	41	footnote	Datos tentativos (tentative data)
+93	28	3	0	6	counterpart	nikaka
+94	28	3	0	6	language_sourcename	tsafiqui pila
+95	28	3	0	6	language	Colorado
+96	29	3	0	5	counterpart	kùwa
+97	29	3	0	5	language_sourcename	tunebo central
+98	29	3	0	5	language	Tunebo, Central
+99	30	3	0	14	counterpart	jeméɸikitiali
+100	30	3	0	14	language_sourcename	tariano
+101	30	3	0	14	language	Tariana
+102	30	2	15	15	newline	""
+103	30	2	16	45	footnote	Giacone: ue-ninéne; uecnená
+104	31	3	0	5	counterpart	thune
+105	31	3	0	5	language_sourcename	páez
+106	31	3	0	5	language	Páez
+107	32	3	0	6	counterpart	iɯ́ɸe
+108	32	3	0	6	language_sourcename	witoto mɨnɨca
+109	32	3	0	6	language	Huitoto Minica
+110	33	3	0	8	counterpart	nɔ̃h kæd
+111	33	3	0	8	language_sourcename	jupda
+112	33	3	0	8	language	Hupdë
+113	34	3	0	6	counterpart	iɯ́pe
+114	34	3	0	6	language_sourcename	witoto nɨpode
+115	34	3	0	6	language	Huitoto Nüpode
+116	35	3	0	10	counterpart	kʰĩrãmé
+117	35	3	0	10	language_sourcename	embera Tadó
+118	35	3	0	10	language	Emberá-Tadó
+119	36	3	0	15	counterpart	pee:bári̵to
+120	36	3	0	15	language_sourcename	guahibo
+121	36	3	0	15	language	Guahibo
+122	37	3	0	9	counterpart	wallená
+123	37	3	0	9	language_sourcename	yucuna
+124	37	3	0	9	language	Yucuna
+125	37	2	10	10	newline	""
+126	37	2	11	27	footnote	Véase (See) 234
+127	38	3	0	12	counterpart	peéborto
+128	38	3	0	12	language_sourcename	playero
+129	38	3	0	12	language	Playero
+130	39	3	0	13	counterpart	jẽbẽrõ
+131	39	3	0	13	language_sourcename	tatuyo
+132	39	3	0	13	language	Tatuyo
+133	40	3	0	14	counterpart	ní̵í̵xi̵kʷa
+134	40	3	0	14	language_sourcename	bora
+135	40	3	0	14	language	Bora
+136	40	2	15	15	newline	""
+137	40	2	16	35	footnote	+ mé-ʔ ní̵xi̵-kʷa
+138	40	3	18	35	counterpart	méʔ ní̵xi̵kʷa
+139	40	3	18	35	language_sourcename	bora
+140	40	3	18	35	language	Bora
+141	41	3	0	7	counterpart	iiniko
+142	41	3	0	7	language_sourcename	carijona
+143	41	3	0	7	language	Carijona
+144	42	3	0	5	counterpart	nili̵
+145	42	3	0	5	language_sourcename	guambiano
+146	42	3	0	5	language	Guambiano
+147	43	3	0	4	counterpart	ihka
+148	43	3	0	4	language_sourcename	cha'palaachi
+149	43	3	0	4	language	Chachi
+150	44	3	0	10	counterpart	kʰẽrẽ́me
+151	44	3	0	10	language_sourcename	embera chamí
+152	44	3	0	10	language	Emberá-Chamí
+153	45	3	0	6	counterpart	kuáaʔ
+154	45	3	0	6	language_sourcename	chimila
+155	45	3	0	6	language	Chimila
+156	46	3	0	6	counterpart	nuneni
+157	46	3	0	6	language_sourcename	cabiyarí
+158	46	3	0	6	language	Cabiyarí
+159	46	2	7	7	newline	""
+160	46	2	8	35	footnote	= ‘mi-lengua’ (‘my-tongue’)
+161	47	3	0	5	counterpart	iɯɸe
+162	47	3	0	5	language_sourcename	witoto murui
+163	47	3	0	5	language	Huitoto Murui
+164	48	3	0	14	counterpart	peh kaʧiéʔt
+165	48	3	0	14	language_sourcename	guayabero
+166	48	3	0	14	language	Guayabero
+167	48	2	14	14	newline	""
+168	48	2	15	123	footnote	Por falta de un análisis adecuado, no se incluyen las vocales alargadas, que posiblemente son fonemáticas.
+169	49	3	0	10	counterpart	dẽ́diru
+170	49	3	0	10	language_sourcename	desano
+171	49	3	0	10	language	Desano
+172	49	3	12	20	counterpart	dẽ́ru
+173	49	3	12	20	language_sourcename	desano
+174	49	3	12	20	language	Desano
+175	50	3	0	11	counterpart	koríʔgəni̵
+176	50	3	0	11	language_sourcename	ika
+177	50	3	0	11	language	Arhuaco
+178	51	3	0	9	counterpart	jankwixia
+179	51	3	0	9	language_sourcename	awa
+180	51	3	0	9	language	Awa-Cuaiquer
+181	52	3	0	6	counterpart	tongue
+182	52	3	0	6	language_sourcename	English
+183	52	3	0	6	language	English
+184	53	3	0	8	counterpart	noenene
+185	53	3	0	8	language_sourcename	curripaco
+186	53	3	0	8	language	Curripaco
+187	54	3	0	11	counterpart	jẽbẽrõ
+188	54	3	0	11	language_sourcename	carapana
+189	54	3	0	11	language	Carapana
+190	55	3	0	10	counterpart	kʰĩrã́me
+191	55	3	0	10	language_sourcename	epena Saija
+192	55	3	0	10	language	Epena
+193	56	3	0	10	counterpart	hebẽ́do
+194	56	3	0	10	language_sourcename	cubeo
+195	56	3	0	10	language	Cubeo
+196	57	3	0	10	counterpart	kʰĩrã́me
+197	57	3	0	10	language_sourcename	catío
+198	57	3	0	10	language	Emberá-Catío
+199	58	3	0	13	counterpart	hĩɲṍṍʔɸɯ
+200	58	3	0	13	language_sourcename	ocaina
+201	58	3	0	13	language	Ocaina
+202	59	3	0	10	counterpart	jẽbẽrõ
+203	59	3	0	10	language_sourcename	macuna
+204	59	3	0	10	language	Macuna
+205	60	3	0	6	counterpart	dĩ̵k³
+206	60	3	0	6	language_sourcename	kakua
+207	60	3	0	6	language	Cacua
+208	61	3	0	12	counterpart	dẽʔdíru
+209	61	3	0	12	language_sourcename	siriano
+210	61	3	0	12	language	Siriano
+211	62	3	0	12	counterpart	jẽbẽ́rõ
+212	62	3	0	12	language_sourcename	tuyuca
+213	62	3	0	12	language	Tuyuca
+214	63	3	0	11	counterpart	huáŋgəldə
+215	63	3	0	11	language_sourcename	kogui
+216	63	3	0	11	language	Kogi
+217	64	3	0	12	counterpart	jẽʔbẽ́rõ
+218	64	3	0	12	language_sourcename	tucano
+219	64	3	0	12	language	Tucano
+220	65	3	0	9	counterpart	biʧtáxa
+221	65	3	0	9	language_sourcename	kamsá
+222	65	3	0	9	language	Camsá
+223	66	3	0	11	counterpart	zẽmẽjõ
+224	66	3	0	11	language_sourcename	siona
+225	66	3	0	11	language	Siona
+226	67	3	0	5	counterpart	anene
+227	67	3	0	5	language_sourcename	sáliba
+228	67	3	0	5	language	Sáliba
+229	68	3	0	3	counterpart	dok
+230	68	3	0	3	language_sourcename	puinave
+231	68	3	0	3	language	Puinave
+232	69	3	0	13	counterpart	ní̵í̵hi̵kʷa
+233	69	3	0	13	language_sourcename	miraña
+234	69	3	0	13	language	Bora
+235	69	3	15	30	counterpart	í̵ʔní̵hi̵kʷat
+236	69	3	15	30	language_sourcename	miraña
+237	69	3	15	30	language	Bora
+238	70	3	0	12	counterpart	dẽbẽ tojo
+239	70	3	0	12	language_sourcename	orejón
+240	70	3	0	12	language	Orejón
+241	71	3	0	9	counterpart	semẽjo
+242	71	3	0	9	language_sourcename	secoya
+243	71	3	0	9	language	Secoya
+244	72	3	0	6	counterpart	núma
+245	72	3	0	6	language_sourcename	achagua
+246	72	3	0	6	language	Achagua
+247	73	3	0	6	counterpart	póʔta
+248	73	3	0	6	language_sourcename	yukpa
+249	73	3	0	6	language	Yukpa
+250	74	3	0	10	counterpart	nambunúka
+251	74	3	0	10	language_sourcename	dí̵mɨna
+252	74	3	0	10	language	Malayo
+253	75	3	0	6	counterpart	itʰái
+254	75	3	0	6	language_sourcename	epena basurudó
+255	75	3	0	6	language	""
+256	75	2	6	6	newline	""
+257	75	2	6	72	footnote	Todas palabras con vocal inicial empiezan con la oclusiva glotal.
+258	76	3	0	9	counterpart	i̵héro
+259	76	3	0	9	language_sourcename	waimaja
+260	76	3	0	9	language	Waimaha
+261	77	3	0	10	counterpart	pekíboat
+262	77	3	0	10	language_sourcename	jitnu
+263	77	3	0	10	language	Macaguán
+264	78	3	0	9	counterpart	di̵sero
+265	78	3	0	9	language_sourcename	wanano
+266	78	3	0	9	language	Guanano
+267	79	3	0	1	counterpart	i
+268	79	3	0	1	language_sourcename	wounaan
+269	79	3	0	1	language	Woun Meu
+270	79	2	1	1	newline	""
+271	79	2	1	67	footnote	Todas palabras con vocal inicial empiezan con la oclusiva glotal.
+272	80	3	0	5	counterpart	sími
+273	80	3	0	5	language_sourcename	inga
+274	80	3	0	5	language	Inga
+275	81	3	0	4	counterpart	boca
+276	81	3	0	4	language_sourcename	Español
+277	81	3	0	4	language	Spanish
+278	83	3	0	12	counterpart	pekoibóto
+279	83	3	0	12	language_sourcename	cuiba
+280	83	3	0	12	language	Cuiba
+281	84	3	0	7	counterpart	i̵hero
+282	84	3	0	7	language_sourcename	bará
+283	84	3	0	7	language	Waimaha
+284	85	3	0	5	counterpart	risé
+285	85	3	0	5	language_sourcename	barasana
+286	85	3	0	5	language	Barasana-Eduria
+287	86	3	0	9	counterpart	ʤi̵ʔopo
+288	86	3	0	9	language_sourcename	koreguaje
+289	86	3	0	9	language	Koreguaje
+290	87	3	0	6	counterpart	núma
+291	87	3	0	6	language_sourcename	baniva
+292	87	3	0	6	language	Baniva
+293	88	3	0	9	counterpart	í̵sero
+294	88	3	0	9	language_sourcename	yurutí
+295	88	3	0	9	language	Wajiara
+296	89	3	0	5	counterpart	itʰé
+297	89	3	0	5	language_sourcename	embera Darién
+298	89	3	0	5	language	Emberá, Northern
+299	89	2	5	5	newline	""
+300	89	2	5	71	footnote	Todas palabras con vocal inicial empiezan con la oclusiva glotal.
+234218	19	3	0	6	counterpart	wajée
+234219	19	3	7	18	counterpart	wajee
+234220	19	3	7	18	counterpart	waajee
+301	90	3	0	10	counterpart	wáani̵ki̵
+302	90	3	0	10	language_sourcename	wayuu
+303	90	3	0	10	language	Wayuu
+304	90	2	11	11	newline	""
+305	90	2	12	25	footnote	(wa-aani̵ki̵)
+306	91	3	21	28	counterpart	uanuma
+307	91	3	21	28	language_sourcename	giacone
+308	91	3	21	28	language	""
+309	91	2	11	11	newline	""
+310	91	2	12	28	footnote	Giacone: ua-numa
+311	92	3	0	7	counterpart	íixi̵
+312	92	3	0	7	language_sourcename	muinane
+313	92	3	0	7	language	Muinane
+314	93	3	0	8	counterpart	wanùma
+315	93	3	0	8	language_sourcename	piapoco
+316	93	3	0	8	language	Piapoco
+317	94	3	0	12	counterpart	paan²at¹ it¹
+318	94	3	0	12	language_sourcename	nukak
+319	94	3	0	12	language	Nukak Makú
+320	95	3	0	13	counterpart	rihokopea
+321	95	3	0	13	language_sourcename	tanimuca
+322	95	3	0	13	language	Tanimuca-Retuarã
+323	96	3	0	4	counterpart	nó
+324	96	3	0	4	language_sourcename	resígaro
+325	96	3	0	4	language	Resígaro
+326	97	3	0	9	counterpart	di̵sero
+327	97	3	0	9	language_sourcename	piratapuyo
+328	97	3	0	9	language	Piratapuyo
+329	98	3	0	8	counterpart	tɕiktɕap
+330	98	3	0	8	language_sourcename	totoró
+331	98	3	0	8	language	Totoro
+332	99	3	0	9	counterpart	fiki foro
+333	99	3	0	9	language_sourcename	tsafiqui pila
+334	99	3	0	9	language	Colorado
+335	100	3	0	4	counterpart	kaka
+336	100	3	0	4	language_sourcename	tunebo central
+337	100	3	0	4	language	Tunebo, Central
+338	101	3	0	10	counterpart	samã́ĩti
+339	101	3	0	10	language_sourcename	tariano
+340	101	3	0	10	language	Tariana
+341	101	2	11	11	newline	""
+342	101	2	12	28	footnote	Giacone: ua-numa
